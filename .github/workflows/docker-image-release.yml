@@ -42,9 +42,18 @@ jobs:
       - name: Start database structure
         run: |
           ./scripts/start_target_db.sh
-      - name: Insert ch.BelasteteStandorte
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v36
+        with:
+          files: ./*.{xtf}
+
+      - name: insert all changed XTFs
         run: |
-          ./scripts/ch.BelasteteStandorte_v2_0.insert.sh
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            FILE=file ./scripts/insert.sh
+          done
 
       - name: Shut down DB container
         run: |
