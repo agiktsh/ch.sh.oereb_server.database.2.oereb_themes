@@ -43,9 +43,7 @@ jobs:
 
       - name: insert all changed XTFs
         run: |
-          for file in $(find . -type f -name "*.xtf") do
-            FILE=$file ./scripts/insert.sh
-          done
+          ./scripts/insert_all.sh
 
       - name: Shut down DB container
         run: |
