@@ -19,7 +19,7 @@ jobs:
         shell: bash
     env:
       CONTAINERNAME: database
-      IMAGE: ghcr.io/agiktsh/oereb-server.database:master
+      IMAGE: ghcr.io/openoereb/ch.sh.oereb_base:latest
       SCHEMA: live
       POSTGRES_DB: oereb
       PG_GRETL_PWD: ${{ secrets.PG_GRETL_PWD }}
@@ -44,7 +44,7 @@ jobs:
       - name: insert all changed XTFs
         run: |
           for file in $(find . -type f -name "*.xtf") do
-            FILE=file ./scripts/insert.sh
+            FILE=$file ./scripts/insert.sh
           done
 
       - name: Shut down DB container
