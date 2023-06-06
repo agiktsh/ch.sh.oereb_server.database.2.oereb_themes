@@ -2,7 +2,7 @@ docker run \
   --name $CONTAINERNAME \
   -d \
   -p 54321:5432 \
-  ghcr.io/openoereb/ch.sh.oereb_base:latest
+  $IMAGE
 
 # wait until the db is read and is accepting connections
 until docker exec $CONTAINERNAME pg_isready; do \
