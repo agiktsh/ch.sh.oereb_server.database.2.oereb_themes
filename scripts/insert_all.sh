@@ -8,6 +8,7 @@ files=(
 "ch.Nutzungsplanung-Nutzungsplanung_V1_2-ch.2920.Nutzungsplanung.xtf" \
 "ch.Nutzungsplanung-Nutzungsplanung_V1_2-ch.2939.Nutzungsplanung.xtf" \
 "ch.Planungszonen-Planungszonen_V1_1-ch.SH.Planungszonen.xtf" \
+"ch.Laermempfindlichkeitsstufen-Laermempfindlichkeitsstufen_V1_2-ch.tha.Laermempfindlichkeitsstufen.xtf" \
 )
 
 echo "${files[*]}"
