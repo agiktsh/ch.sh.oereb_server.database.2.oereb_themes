@@ -4,8 +4,10 @@ set -Eeuo pipefail
 ili2pg_executable=$(find /tmp/ili2pg -iname 'ili2pg*.jar')
 # files=$(find . -type f -name "*.xtf")
 files=(
-"ch.Gewaesserraum-Gewaesserraum_V1_1-ch.Gewaesserraum.xtf" \
-"ch.Planungszonen-Planungszonen_V1_1-ch.Planungszonen.xtf" \
+"ch.Gewaesserraum-Gewaesserraum_V1_1-ch.SH.Gewaesserraum.xtf" \
+"ch.Nutzungsplanung-Nutzungsplanung_V1_2-ch.2920.Nutzungsplanung.xtf" \
+"ch.Nutzungsplanung-Nutzungsplanung_V1_2-ch.2939.Nutzungsplanung.xtf" \
+"ch.Planungszonen-Planungszonen_V1_1-ch.SH.Planungszonen.xtf" \
 )
 
 echo "${files[*]}"
