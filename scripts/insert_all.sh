@@ -2,6 +2,7 @@
 set -Eeuo pipefail
 
 ili2pg_executable=$(find /tmp/ili2pg -iname 'ili2pg*.jar')
+# Das wird später benutzt damit alle Dateien integriert werden
 # files=$(find . -type f -name "*.xtf")
 files=(
 "ch.Gewaesserraum-Gewaesserraum_V1_1-ch.SH.Gewaesserraum.xtf" \
