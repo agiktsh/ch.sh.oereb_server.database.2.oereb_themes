@@ -23,15 +23,15 @@
   </HEADERSECTION>
   <DATASECTION>
     <OeREBKRMtrsfr_V2_0.Transferstruktur BID="ch.SH.Waldreservate.OeREBKRMtrsfr_V2_0">
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a5e35101-74e8-44d9-af9a-38064b0e294a">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_cd3d10d6-280a-4d05-a945-b1fc30f36acb">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a5e35101-74e8-44d9-af9a-38064b0e294a">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_cd3d10d6-280a-4d05-a945-b1fc30f36acb">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -6379,17 +6379,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a5e35101-74e8-44d9-af9a-38064b0e294a"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_cd3d10d6-280a-4d05-a945-b1fc30f36acb"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_55600979-4b99-48b5-9bd1-21bc7e72195b">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_db77902f-398e-4acc-88e1-a9ebacce1ea3">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_55600979-4b99-48b5-9bd1-21bc7e72195b">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_db77902f-398e-4acc-88e1-a9ebacce1ea3">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -12929,16 +12929,16 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_55600979-4b99-48b5-9bd1-21bc7e72195b"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_db77902f-398e-4acc-88e1-a9ebacce1ea3"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_3c583a35-956d-4b45-b8f5-d520607fefdf">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a3373beb-31e5-40af-8828-e875fc5687df">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1973-06-20</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.2"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3c583a35-956d-4b45-b8f5-d520607fefdf">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a3373beb-31e5-40af-8828-e875fc5687df">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -13249,16 +13249,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1973-06-20</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3c583a35-956d-4b45-b8f5-d520607fefdf"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a3373beb-31e5-40af-8828-e875fc5687df"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_27acb479-10ae-487b-8be6-8daee4ab1bb0">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ba8f7540-b26e-4966-87a3-5ff8be68a8e3">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_27acb479-10ae-487b-8be6-8daee4ab1bb0">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ba8f7540-b26e-4966-87a3-5ff8be68a8e3">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -13305,17 +13305,17 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_27acb479-10ae-487b-8be6-8daee4ab1bb0"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ba8f7540-b26e-4966-87a3-5ff8be68a8e3"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_9f2ef3d9-8ab0-4dac-a81b-8879b437af0f">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c1ad3595-6d4f-4230-b264-c55e1f3d9e3a">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9f2ef3d9-8ab0-4dac-a81b-8879b437af0f">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c1ad3595-6d4f-4230-b264-c55e1f3d9e3a">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -17231,16 +17231,16 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9f2ef3d9-8ab0-4dac-a81b-8879b437af0f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c1ad3595-6d4f-4230-b264-c55e1f3d9e3a"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_513388ce-71fc-4534-a645-15fb6d233dc0">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_9ecd1f9e-8eb5-433b-adfa-c4a05fadeae9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_513388ce-71fc-4534-a645-15fb6d233dc0">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9ecd1f9e-8eb5-433b-adfa-c4a05fadeae9">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -17367,16 +17367,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_513388ce-71fc-4534-a645-15fb6d233dc0"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9ecd1f9e-8eb5-433b-adfa-c4a05fadeae9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_4ddb88fe-41d7-44b8-8639-914c347750ce">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_90612e29-06a4-417e-ad8a-8996c56d3d69">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1996-05-31</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4ddb88fe-41d7-44b8-8639-914c347750ce">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_90612e29-06a4-417e-ad8a-8996c56d3d69">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -17619,16 +17619,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1996-05-31</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4ddb88fe-41d7-44b8-8639-914c347750ce"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_90612e29-06a4-417e-ad8a-8996c56d3d69"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_1096e879-e1d5-4904-aa8a-ab09f971511f">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_3bb9013f-fac8-4447-9ccc-ccbe4f0e4d71">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1096e879-e1d5-4904-aa8a-ab09f971511f">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3bb9013f-fac8-4447-9ccc-ccbe4f0e4d71">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -17791,16 +17791,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1096e879-e1d5-4904-aa8a-ab09f971511f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3bb9013f-fac8-4447-9ccc-ccbe4f0e4d71"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7e527472-b62f-42b7-bd80-f701c424255a">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a8c6d387-298c-48da-93ad-a126b48949d5">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7e527472-b62f-42b7-bd80-f701c424255a">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a8c6d387-298c-48da-93ad-a126b48949d5">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -17999,17 +17999,17 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7e527472-b62f-42b7-bd80-f701c424255a"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a8c6d387-298c-48da-93ad-a126b48949d5"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_215e84aa-1a38-40a3-9fcf-73de9722439a">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c54461d6-489e-47e9-b2b6-23c870577830">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_215e84aa-1a38-40a3-9fcf-73de9722439a">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c54461d6-489e-47e9-b2b6-23c870577830">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -21553,17 +21553,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_215e84aa-1a38-40a3-9fcf-73de9722439a"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c54461d6-489e-47e9-b2b6-23c870577830"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_b4f3e422-8c46-4896-b24c-ddbfc047e308">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_3c8363c1-58be-447f-a163-a78a62d71e6c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.2"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b4f3e422-8c46-4896-b24c-ddbfc047e308">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3c8363c1-58be-447f-a163-a78a62d71e6c">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -28595,17 +28595,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b4f3e422-8c46-4896-b24c-ddbfc047e308"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3c8363c1-58be-447f-a163-a78a62d71e6c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_4ba8e38f-ee9b-4d8a-ae92-bff07cd1afe4">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_aff9e986-6c8a-4a78-9cc9-cd535a3f6133">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4ba8e38f-ee9b-4d8a-ae92-bff07cd1afe4">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_aff9e986-6c8a-4a78-9cc9-cd535a3f6133">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -29425,16 +29425,16 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4ba8e38f-ee9b-4d8a-ae92-bff07cd1afe4"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_aff9e986-6c8a-4a78-9cc9-cd535a3f6133"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ace5e6ee-b8fe-4bc0-9feb-0504e84f432d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_0b288056-4a68-4a92-ac53-146adf544729">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ace5e6ee-b8fe-4bc0-9feb-0504e84f432d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_0b288056-4a68-4a92-ac53-146adf544729">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -29897,17 +29897,17 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ace5e6ee-b8fe-4bc0-9feb-0504e84f432d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_0b288056-4a68-4a92-ac53-146adf544729"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c676129a-f9a5-432f-8b9b-c0a6d1519654">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_35bb1cf8-ec5a-409b-8126-279424247c33">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c676129a-f9a5-432f-8b9b-c0a6d1519654">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_35bb1cf8-ec5a-409b-8126-279424247c33">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -32883,16 +32883,16 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c676129a-f9a5-432f-8b9b-c0a6d1519654"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_35bb1cf8-ec5a-409b-8126-279424247c33"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a33ecece-eadd-49ba-a511-eebb53ebee40">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_803edc1f-d54c-4c91-8f20-6c85dd7ed9fe">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a33ecece-eadd-49ba-a511-eebb53ebee40">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_803edc1f-d54c-4c91-8f20-6c85dd7ed9fe">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -34207,17 +34207,17 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a33ecece-eadd-49ba-a511-eebb53ebee40"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_803edc1f-d54c-4c91-8f20-6c85dd7ed9fe"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_f261739f-9a93-4675-b65f-de95423c0c56">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a3962c43-d165-47ff-badb-3efe2bf2ba88">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f261739f-9a93-4675-b65f-de95423c0c56">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a3962c43-d165-47ff-badb-3efe2bf2ba88">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -35065,17 +35065,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f261739f-9a93-4675-b65f-de95423c0c56"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a3962c43-d165-47ff-badb-3efe2bf2ba88"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c7d74c16-87f4-4963-82a2-ff1b04e3244d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c3d44e1c-d349-4f5a-8831-36c132b7c10b">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c7d74c16-87f4-4963-82a2-ff1b04e3244d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c3d44e1c-d349-4f5a-8831-36c132b7c10b">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -38467,17 +38467,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c7d74c16-87f4-4963-82a2-ff1b04e3244d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c3d44e1c-d349-4f5a-8831-36c132b7c10b"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_b7b437f0-776d-46fa-abdf-88f8951d1c49">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_90e6cf32-0a33-484f-9d3d-cb276974955c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b7b437f0-776d-46fa-abdf-88f8951d1c49">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_90e6cf32-0a33-484f-9d3d-cb276974955c">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -38513,17 +38513,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-11-24</publiziertAb>
         <publiziertBis>2065-11-24</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b7b437f0-776d-46fa-abdf-88f8951d1c49"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_90e6cf32-0a33-484f-9d3d-cb276974955c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e72caf48-1018-48eb-95d6-554b4b011c29">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_25a00f46-4fea-460a-8742-c81fdbbf2f82">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e72caf48-1018-48eb-95d6-554b4b011c29">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_25a00f46-4fea-460a-8742-c81fdbbf2f82">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -44175,17 +44175,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2041-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e72caf48-1018-48eb-95d6-554b4b011c29"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_25a00f46-4fea-460a-8742-c81fdbbf2f82"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_49a91851-2263-4cdc-9474-db3fdd5adfc8">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_21bc54fc-8d94-4d1a-9d17-e910159bb324">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2019-12-10</publiziertAb>
         <publiziertBis>2069-12-10</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_49a91851-2263-4cdc-9474-db3fdd5adfc8">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_21bc54fc-8d94-4d1a-9d17-e910159bb324">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -60073,16 +60073,16 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2019-12-10</publiziertAb>
         <publiziertBis>2069-12-10</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_49a91851-2263-4cdc-9474-db3fdd5adfc8"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_21bc54fc-8d94-4d1a-9d17-e910159bb324"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_f2a85ea0-adf6-400d-8d1f-8f3e915a5213">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_25f1109c-2043-4412-b94e-69d0c45360cc">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1983-01-11</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f2a85ea0-adf6-400d-8d1f-8f3e915a5213">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_25f1109c-2043-4412-b94e-69d0c45360cc">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -61653,16 +61653,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1983-01-11</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f2a85ea0-adf6-400d-8d1f-8f3e915a5213"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_25f1109c-2043-4412-b94e-69d0c45360cc"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e707bc46-1217-4ac7-a45e-ffe1961448f9">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_98946357-0fea-4e8b-88f9-a839068c9ad9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.3"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e707bc46-1217-4ac7-a45e-ffe1961448f9">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_98946357-0fea-4e8b-88f9-a839068c9ad9">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -61825,17 +61825,17 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1984-03-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e707bc46-1217-4ac7-a45e-ffe1961448f9"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_98946357-0fea-4e8b-88f9-a839068c9ad9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_50e674f4-b593-49f4-9771-fa82178a8ac9">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e9e57f59-aa2d-4d43-a60b-536a2ae111b0">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1980-12-09</publiziertAb>
         <publiziertBis>2030-12-09</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.2"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_50e674f4-b593-49f4-9771-fa82178a8ac9">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e9e57f59-aa2d-4d43-a60b-536a2ae111b0">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -64439,17 +64439,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1980-12-09</publiziertAb>
         <publiziertBis>2030-12-09</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_50e674f4-b593-49f4-9771-fa82178a8ac9"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e9e57f59-aa2d-4d43-a60b-536a2ae111b0"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_f2133eb3-0b29-41da-9369-e6f85cd4eee6">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_14b5c44e-5840-491e-9e7c-e717676d994f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.2"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f2133eb3-0b29-41da-9369-e6f85cd4eee6">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_14b5c44e-5840-491e-9e7c-e717676d994f">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -67117,17 +67117,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f2133eb3-0b29-41da-9369-e6f85cd4eee6"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_14b5c44e-5840-491e-9e7c-e717676d994f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_316c5a99-9667-4938-9be8-76dd44b28cc0">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ecdfdb37-86e7-4919-92d9-dc1cbe200449">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.2"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_316c5a99-9667-4938-9be8-76dd44b28cc0">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ecdfdb37-86e7-4919-92d9-dc1cbe200449">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -69595,17 +69595,17 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_316c5a99-9667-4938-9be8-76dd44b28cc0"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ecdfdb37-86e7-4919-92d9-dc1cbe200449"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e4787a70-b8ca-4879-a5e5-0accb964e21f">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_8430902e-6425-4660-812c-3e1b7a1cfd06">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
         <Legende REF="ch.SH.Waldreservate.MCPFE1.2"/>
         <DarstellungsDienst REF="ch.SH.Waldreservate.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e4787a70-b8ca-4879-a5e5-0accb964e21f">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8430902e-6425-4660-812c-3e1b7a1cfd06">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -72233,9 +72233,9 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2011-12-13</publiziertAb>
         <publiziertBis>2061-12-13</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e4787a70-b8ca-4879-a5e5-0accb964e21f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8430902e-6425-4660-812c-3e1b7a1cfd06"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRM_V2_0.Amt.Amt TID="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317">
+      <OeREBKRM_V2_0.Amt.Amt TID="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27">
         <Name>
           <LocalisationCH_V1.MultilingualText>
             <LocalisedText>
@@ -72246,18 +72246,8 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </Name>
-        <AmtImWeb>
-          <OeREBKRM_V2_0.MultilingualUri>
-            <LocalisedText>
-              <OeREBKRM_V2_0.LocalisedUri>
-                <Language/>
-                <Text>https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Baudepartement/Kantonsforstamt-3610-DE.html</Text>
-              </OeREBKRM_V2_0.LocalisedUri>
-            </LocalisedText>
-          </OeREBKRM_V2_0.MultilingualUri>
-        </AmtImWeb>
       </OeREBKRM_V2_0.Amt.Amt>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9c7930aa-951d-4196-b187-3afb034afbc7">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f27064b1-9275-487c-8754-f23ddea5cd06">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>1980-12-09</publiziertAb>
@@ -72283,13 +72273,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_50e674f4-b593-49f4-9771-fa82178a8ac9"/>
-        <Vorschrift REF="dokument_9c7930aa-951d-4196-b187-3afb034afbc7"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e9e57f59-aa2d-4d43-a60b-536a2ae111b0"/>
+        <Vorschrift REF="dokument_f27064b1-9275-487c-8754-f23ddea5cd06"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_2ac20a47-5149-4832-a9df-8b5689fd4444">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ff4e1575-e103-4ada-afef-abdec36bede1">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>1973-06-20</publiziertAb>
@@ -72315,13 +72305,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3c583a35-956d-4b45-b8f5-d520607fefdf"/>
-        <Vorschrift REF="dokument_2ac20a47-5149-4832-a9df-8b5689fd4444"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a3373beb-31e5-40af-8828-e875fc5687df"/>
+        <Vorschrift REF="dokument_ff4e1575-e103-4ada-afef-abdec36bede1"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e788d943-d33f-4bb2-808f-734949d075bb">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1f65a595-7f9a-443e-ab53-7db6c36d2fcb">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>1983-01-11</publiziertAb>
@@ -72347,13 +72337,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f2a85ea0-adf6-400d-8d1f-8f3e915a5213"/>
-        <Vorschrift REF="dokument_e788d943-d33f-4bb2-808f-734949d075bb"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_25f1109c-2043-4412-b94e-69d0c45360cc"/>
+        <Vorschrift REF="dokument_1f65a595-7f9a-443e-ab53-7db6c36d2fcb"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_2a82026c-eb89-4f61-86e8-3975af954312">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_788db558-adf4-4853-9b42-1a2f91785076">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2019-12-10</publiziertAb>
@@ -72379,13 +72369,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_49a91851-2263-4cdc-9474-db3fdd5adfc8"/>
-        <Vorschrift REF="dokument_2a82026c-eb89-4f61-86e8-3975af954312"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_21bc54fc-8d94-4d1a-9d17-e910159bb324"/>
+        <Vorschrift REF="dokument_788db558-adf4-4853-9b42-1a2f91785076"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_7fa2ccb2-7305-4e37-afef-d54a69129c62">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9d10712e-fdbc-4aad-9b8a-3bf8930621d4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72411,13 +72401,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e4787a70-b8ca-4879-a5e5-0accb964e21f"/>
-        <Vorschrift REF="dokument_7fa2ccb2-7305-4e37-afef-d54a69129c62"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8430902e-6425-4660-812c-3e1b7a1cfd06"/>
+        <Vorschrift REF="dokument_9d10712e-fdbc-4aad-9b8a-3bf8930621d4"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_727a61ec-67af-49ed-8ab6-9b4e3eb86b7a">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f7a88bde-52c1-4e36-835c-01d999b0d12a">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72443,13 +72433,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b4f3e422-8c46-4896-b24c-ddbfc047e308"/>
-        <Vorschrift REF="dokument_727a61ec-67af-49ed-8ab6-9b4e3eb86b7a"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3c8363c1-58be-447f-a163-a78a62d71e6c"/>
+        <Vorschrift REF="dokument_f7a88bde-52c1-4e36-835c-01d999b0d12a"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3eec7a1e-61db-4080-a038-89deafeb4abc">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_a098e369-6881-4f0e-93bf-479eea222000">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72475,13 +72465,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f2133eb3-0b29-41da-9369-e6f85cd4eee6"/>
-        <Vorschrift REF="dokument_3eec7a1e-61db-4080-a038-89deafeb4abc"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_14b5c44e-5840-491e-9e7c-e717676d994f"/>
+        <Vorschrift REF="dokument_a098e369-6881-4f0e-93bf-479eea222000"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_28c4ff76-c624-4f1e-b399-01e83ca70b5f">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_bd406d0b-8463-4dda-b827-dd58f270298f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72507,13 +72497,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c676129a-f9a5-432f-8b9b-c0a6d1519654"/>
-        <Vorschrift REF="dokument_28c4ff76-c624-4f1e-b399-01e83ca70b5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_35bb1cf8-ec5a-409b-8126-279424247c33"/>
+        <Vorschrift REF="dokument_bd406d0b-8463-4dda-b827-dd58f270298f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_2b75b48b-5fa9-41e4-81f0-dfeb393aec73">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ca192ad5-179e-43ff-9705-cd28e9ae433e">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72539,13 +72529,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4ba8e38f-ee9b-4d8a-ae92-bff07cd1afe4"/>
-        <Vorschrift REF="dokument_2b75b48b-5fa9-41e4-81f0-dfeb393aec73"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_aff9e986-6c8a-4a78-9cc9-cd535a3f6133"/>
+        <Vorschrift REF="dokument_ca192ad5-179e-43ff-9705-cd28e9ae433e"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_607512cd-a971-4202-a69f-8ac9be957186">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1a17f96d-4e60-473a-ad89-09ca79b77154">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72571,13 +72561,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e72caf48-1018-48eb-95d6-554b4b011c29"/>
-        <Vorschrift REF="dokument_607512cd-a971-4202-a69f-8ac9be957186"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_25a00f46-4fea-460a-8742-c81fdbbf2f82"/>
+        <Vorschrift REF="dokument_1a17f96d-4e60-473a-ad89-09ca79b77154"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ac2620d3-1e25-4e54-90ba-5101b6a6f5b4">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b36c6451-ff0f-464d-99aa-b50c4e6b0e39">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72603,13 +72593,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_215e84aa-1a38-40a3-9fcf-73de9722439a"/>
-        <Vorschrift REF="dokument_ac2620d3-1e25-4e54-90ba-5101b6a6f5b4"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c54461d6-489e-47e9-b2b6-23c870577830"/>
+        <Vorschrift REF="dokument_b36c6451-ff0f-464d-99aa-b50c4e6b0e39"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_fa9c11ef-6861-414c-8eb3-8c1a2d0c8008">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3ca10060-7c09-4975-9690-d4ff59862e10">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72635,13 +72625,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c7d74c16-87f4-4963-82a2-ff1b04e3244d"/>
-        <Vorschrift REF="dokument_fa9c11ef-6861-414c-8eb3-8c1a2d0c8008"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c3d44e1c-d349-4f5a-8831-36c132b7c10b"/>
+        <Vorschrift REF="dokument_3ca10060-7c09-4975-9690-d4ff59862e10"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_87bebe94-312a-4b01-b41d-2eba71f26058">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_41987b4f-37c1-4f68-829c-581e2b5cc832">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72667,13 +72657,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_316c5a99-9667-4938-9be8-76dd44b28cc0"/>
-        <Vorschrift REF="dokument_87bebe94-312a-4b01-b41d-2eba71f26058"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ecdfdb37-86e7-4919-92d9-dc1cbe200449"/>
+        <Vorschrift REF="dokument_41987b4f-37c1-4f68-829c-581e2b5cc832"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3c4dcb97-fcfc-4859-91b9-f277947f9e51">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_4f024c1a-0650-48c5-841c-b86200cdbaf1">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2011-12-13</publiziertAb>
@@ -72699,13 +72689,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9f2ef3d9-8ab0-4dac-a81b-8879b437af0f"/>
-        <Vorschrift REF="dokument_3c4dcb97-fcfc-4859-91b9-f277947f9e51"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c1ad3595-6d4f-4230-b264-c55e1f3d9e3a"/>
+        <Vorschrift REF="dokument_4f024c1a-0650-48c5-841c-b86200cdbaf1"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_08e46af9-37b2-4aca-a70a-34831b2556b8">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e4fbd098-879f-423a-a305-449c5e9b66e0">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2015-11-24</publiziertAb>
@@ -72731,17 +72721,17 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a5e35101-74e8-44d9-af9a-38064b0e294a"/>
-        <Vorschrift REF="dokument_08e46af9-37b2-4aca-a70a-34831b2556b8"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_cd3d10d6-280a-4d05-a945-b1fc30f36acb"/>
+        <Vorschrift REF="dokument_e4fbd098-879f-423a-a305-449c5e9b66e0"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b7b437f0-776d-46fa-abdf-88f8951d1c49"/>
-        <Vorschrift REF="dokument_08e46af9-37b2-4aca-a70a-34831b2556b8"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_90e6cf32-0a33-484f-9d3d-cb276974955c"/>
+        <Vorschrift REF="dokument_e4fbd098-879f-423a-a305-449c5e9b66e0"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_64b5838d-1cc3-47c0-a792-bdcd0582852b">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_5b160db4-f04b-4093-b497-5cd9c462b423">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2015-11-24</publiziertAb>
@@ -72767,13 +72757,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_55600979-4b99-48b5-9bd1-21bc7e72195b"/>
-        <Vorschrift REF="dokument_64b5838d-1cc3-47c0-a792-bdcd0582852b"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_db77902f-398e-4acc-88e1-a9ebacce1ea3"/>
+        <Vorschrift REF="dokument_5b160db4-f04b-4093-b497-5cd9c462b423"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b881b09c-a659-4d55-96d2-4ced2eb99f05">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3df17670-0b96-40e9-ad59-5449af3a6edf">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>2015-11-24</publiziertAb>
@@ -72799,13 +72789,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f261739f-9a93-4675-b65f-de95423c0c56"/>
-        <Vorschrift REF="dokument_b881b09c-a659-4d55-96d2-4ced2eb99f05"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a3962c43-d165-47ff-badb-3efe2bf2ba88"/>
+        <Vorschrift REF="dokument_3df17670-0b96-40e9-ad59-5449af3a6edf"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3a6213f5-1a89-4316-8e85-9e385f22c8c9">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8f530b2a-dbca-4ecc-9654-386091f3b497">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>1984-03-08</publiziertAb>
@@ -72831,25 +72821,25 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_513388ce-71fc-4534-a645-15fb6d233dc0"/>
-        <Vorschrift REF="dokument_3a6213f5-1a89-4316-8e85-9e385f22c8c9"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9ecd1f9e-8eb5-433b-adfa-c4a05fadeae9"/>
+        <Vorschrift REF="dokument_8f530b2a-dbca-4ecc-9654-386091f3b497"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1096e879-e1d5-4904-aa8a-ab09f971511f"/>
-        <Vorschrift REF="dokument_3a6213f5-1a89-4316-8e85-9e385f22c8c9"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3bb9013f-fac8-4447-9ccc-ccbe4f0e4d71"/>
+        <Vorschrift REF="dokument_8f530b2a-dbca-4ecc-9654-386091f3b497"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ace5e6ee-b8fe-4bc0-9feb-0504e84f432d"/>
-        <Vorschrift REF="dokument_3a6213f5-1a89-4316-8e85-9e385f22c8c9"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_0b288056-4a68-4a92-ac53-146adf544729"/>
+        <Vorschrift REF="dokument_8f530b2a-dbca-4ecc-9654-386091f3b497"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e707bc46-1217-4ac7-a45e-ffe1961448f9"/>
-        <Vorschrift REF="dokument_3a6213f5-1a89-4316-8e85-9e385f22c8c9"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_98946357-0fea-4e8b-88f9-a839068c9ad9"/>
+        <Vorschrift REF="dokument_8f530b2a-dbca-4ecc-9654-386091f3b497"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_29e0da32-e989-4267-a9ec-95f250317fd0">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_02c9782f-01c0-4e6c-8135-8f7e8836dfe6">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>1996-05-31</publiziertAb>
@@ -72875,13 +72865,13 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4ddb88fe-41d7-44b8-8639-914c347750ce"/>
-        <Vorschrift REF="dokument_29e0da32-e989-4267-a9ec-95f250317fd0"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_90612e29-06a4-417e-ad8a-8996c56d3d69"/>
+        <Vorschrift REF="dokument_02c9782f-01c0-4e6c-8135-8f7e8836dfe6"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_77f79099-99e7-488f-9ec3-651fcb1b5530">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_a7ae17c4-5851-406e-8387-21330092581b">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>730</AuszugIndex>
         <publiziertAb>1984-03-08</publiziertAb>
@@ -72907,19 +72897,19 @@
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
         <TextImWeb/>
-        <ZustaendigeStelle REF="AMT_fa1604fe-2fb4-41f1-853e-4b17320aa317"/>
+        <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_27acb479-10ae-487b-8be6-8daee4ab1bb0"/>
-        <Vorschrift REF="dokument_77f79099-99e7-488f-9ec3-651fcb1b5530"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ba8f7540-b26e-4966-87a3-5ff8be68a8e3"/>
+        <Vorschrift REF="dokument_a7ae17c4-5851-406e-8387-21330092581b"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7e527472-b62f-42b7-bd80-f701c424255a"/>
-        <Vorschrift REF="dokument_77f79099-99e7-488f-9ec3-651fcb1b5530"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a8c6d387-298c-48da-93ad-a126b48949d5"/>
+        <Vorschrift REF="dokument_a7ae17c4-5851-406e-8387-21330092581b"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a33ecece-eadd-49ba-a511-eebb53ebee40"/>
-        <Vorschrift REF="dokument_77f79099-99e7-488f-9ec3-651fcb1b5530"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_803edc1f-d54c-4c91-8f20-6c85dd7ed9fe"/>
+        <Vorschrift REF="dokument_a7ae17c4-5851-406e-8387-21330092581b"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Waldreservate.MCPFE1.1">
         <Symbol>
