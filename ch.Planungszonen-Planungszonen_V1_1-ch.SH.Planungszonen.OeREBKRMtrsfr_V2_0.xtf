@@ -1023,7 +1023,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.DarstellungsDienst>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2951.grb.153">
         <Rechtsstatus>inKraft</Rechtsstatus>
-        <AuszugIndex>1000</AuszugIndex>
+        <AuszugIndex>10</AuszugIndex>
         <publiziertAb>2019-10-23</publiziertAb>
         <OffizielleNr>
           <LocalisationCH_V1.MultilingualText>
@@ -1063,7 +1063,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2917.grb.GR-00029">
         <Rechtsstatus>inKraft</Rechtsstatus>
-        <AuszugIndex>1000</AuszugIndex>
+        <AuszugIndex>10</AuszugIndex>
         <publiziertAb>2022-03-14</publiziertAb>
         <OffizielleNr>
           <LocalisationCH_V1.MultilingualText>
@@ -1107,7 +1107,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2973.grb.GR-00043">
         <Rechtsstatus>inKraft</Rechtsstatus>
-        <AuszugIndex>1000</AuszugIndex>
+        <AuszugIndex>10</AuszugIndex>
         <publiziertAb>2023-04-04</publiziertAb>
         <OffizielleNr>
           <LocalisationCH_V1.MultilingualText>
