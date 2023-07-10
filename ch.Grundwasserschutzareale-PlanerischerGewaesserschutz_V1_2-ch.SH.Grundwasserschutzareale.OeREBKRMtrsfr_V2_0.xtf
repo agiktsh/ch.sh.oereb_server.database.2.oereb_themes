@@ -23,14 +23,14 @@
   </HEADERSECTION>
   <DATASECTION>
     <OeREBKRMtrsfr_V2_0.Transferstruktur BID="ch.SH.Grundwasserschutzareale.OeREBKRMtrsfr_V2_0">
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_1377">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_8661">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
         <Legende REF="ch.SH.Grundwasserschutzareale.Areal"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzareale.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1377">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8661">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -689,16 +689,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1377"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8661"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_1378">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_8662">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
         <Legende REF="ch.SH.Grundwasserschutzareale.Areal"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzareale.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1378">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8662">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1225,17 +1225,1240 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1378"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8662"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1377"/>
-        <Vorschrift REF="dokument_1025"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8661"/>
+        <Vorschrift REF="dokument_8680"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1378"/>
-        <Vorschrift REF="dokument_1031"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8662"/>
+        <Vorschrift REF="dokument_8684"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_973">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8661"/>
+        <Vorschrift REF="dokument_8288"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8662"/>
+        <Vorschrift REF="dokument_8294"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8663">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement BAG_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/BAG_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8664">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement BEG_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/BEG_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8665">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement BER_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/BER_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8666">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement BUC_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/BUC_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8667">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement BUB_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/BUB_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8668">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement DOE_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/DOE_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8669">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement DOE_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/DOE_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8670">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement HAL_701_RE_2.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HAL_701_RE_2.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8671">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement HAL_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HAL_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8672">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement HEH_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HEH_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8673">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement LOE_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/LOE_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8674">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Verordnung des Landratsamts Waldshut RUE_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/RUE_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8676">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement MER_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/MER_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8677">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement NAR_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/NAR_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8678">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement NEK_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/NEK_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8679">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement NEK_702_RE_2.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/NEK_702_RE_2.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8680">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>525</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Reglement Grundwasserschutzareal NEK_703_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/NEK_703_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8681">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2022-01-24</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement NEK_704_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/NEK_704_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8682">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement HEH_702_RE_2.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HEH_702_RE_2.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8683">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement SAR_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SAR_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8684">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>525</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Reglement Grundwasserschutzareal RAM_703_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/RAM_703_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8685">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement RAM_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/RAM_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8686">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement RAM_704_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/RAM_704_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8688">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement RUE_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/RUE_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8689">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement HET_702_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HET_702_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8690">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement Eichhaldenquelle HET_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HET_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8691">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement HET_701_RE_2.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HET_701_RE_2.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8692">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement HET_701_RE_2.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/HET_701_RE_2.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8693">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement SHA_703_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SHA_703_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8694">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement SHA_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SHA_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8695">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement SHA_702_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SHA_702_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8696">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement SHA_704_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SHA_704_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8697">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2019-04-30</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement SHL_703_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SHL_703_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8699">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement 1985 SHL_702_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SHL_702_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8700">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement 1999 (Anpassung) SHL_702_RE_2.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SHL_702_RE_2.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8701">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement SIB_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/SIB_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8702">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement THA_702_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/THA_702_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8703">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement THA_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/THA_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8704">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement TRA_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/TRA_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8705">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement OST_702_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/OST_702_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8706">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2019-05-18</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement WIL_702_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/WIL_702_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8707">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement OST_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/OST_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8708">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2018-01-01</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement WIL_701_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/WIL_701_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8709">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2019-05-18</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenreglement WIL_703_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/WIL_703_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8710">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2022-01-24</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonenrgelement WIL_704_RE_1.pdf</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/WIL_704_RE_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_8336"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8236">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1260,9 +2483,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_974">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8237">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1287,9 +2510,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_975">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8238">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1314,9 +2537,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_976">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8239">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1341,9 +2564,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_977">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8240">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1368,9 +2591,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_978">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8241">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1395,9 +2618,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_979">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8242">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1422,9 +2645,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_980">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8243">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1449,9 +2672,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_981">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8244">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1476,9 +2699,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_982">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8245">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1503,9 +2726,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_983">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8246">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1530,9 +2753,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_985">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8248">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1557,9 +2780,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_986">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8249">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1584,9 +2807,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_989">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8252">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-05-18</publiziertAb>
@@ -1611,9 +2834,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_990">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8253">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1638,9 +2861,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_991">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8254">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1665,9 +2888,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_992">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8255">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-05-18</publiziertAb>
@@ -1692,9 +2915,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_993">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8256">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1719,9 +2942,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_994">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8257">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1746,9 +2969,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_995">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8258">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1773,9 +2996,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_996">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8259">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1800,9 +3023,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_997">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8260">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1827,9 +3050,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_998">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8261">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1854,9 +3077,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_999">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8262">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1881,9 +3104,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1000">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8263">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1908,9 +3131,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1001">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8264">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1935,9 +3158,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1002">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8265">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1962,9 +3185,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1003">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8266">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1989,9 +3212,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1004">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8267">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2016,9 +3239,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1006">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8269">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-04-30</publiziertAb>
@@ -2043,9 +3266,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1007">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8270">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -2070,9 +3293,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1008">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8271">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -2097,9 +3320,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1009">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8272">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2124,9 +3347,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1010">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8273">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2151,9 +3374,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1011">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8274">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2178,9 +3401,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1012">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8275">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2205,9 +3428,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1013">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8276">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2232,9 +3455,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1014">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8277">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2259,9 +3482,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1015">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8278">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2286,9 +3509,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1016">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8279">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2313,9 +3536,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1017">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8280">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2340,9 +3563,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1018">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8281">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2367,9 +3590,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1019">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8282">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2394,9 +3617,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1020">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8283">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2421,9 +3644,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1021">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8284">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2448,9 +3671,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1022">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8285">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2475,9 +3698,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1023">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8286">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2502,9 +3725,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1024">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8287">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2529,9 +3752,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1025">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8288">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>525</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2556,9 +3779,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1026">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8289">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2583,9 +3806,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1027">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8290">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2610,9 +3833,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1030">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8293">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2637,9 +3860,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1031">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8294">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>525</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2664,9 +3887,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1034">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8297">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2691,9 +3914,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1035">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8298">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2718,9 +3941,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1036">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8299">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2745,9 +3968,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1037">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8300">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2772,9 +3995,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1038">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8301">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2799,9 +4022,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1040">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8303">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2826,9 +4049,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1041">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8304">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2853,9 +4076,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1042">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8305">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2880,9 +4103,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1043">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8306">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2907,9 +4130,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1044">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8307">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2934,9 +4157,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1045">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8308">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2961,9 +4184,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1046">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8309">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2988,9 +4211,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1047">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8310">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3015,9 +4238,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1048">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8311">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3042,9 +4265,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1049">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8312">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3069,9 +4292,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1050">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8313">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3096,9 +4319,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1051">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8314">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3123,9 +4346,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1052">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8315">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3150,9 +4373,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1053">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8316">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3177,9 +4400,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1054">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8317">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3204,9 +4427,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1055">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8318">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3231,9 +4454,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1056">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8319">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3258,9 +4481,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1062">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8325">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3285,9 +4508,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1063">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8326">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3312,9 +4535,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1064">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8327">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3339,9 +4562,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1065">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8328">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3366,9 +4589,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1066">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8329">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3393,9 +4616,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1067">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8330">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3420,9 +4643,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1068">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8331">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3447,9 +4670,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1069">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8332">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3474,9 +4697,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_1336"/>
+        <ZustaendigeStelle REF="AMT_8336"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Amt.Amt TID="AMT_1336">
+      <OeREBKRM_V2_0.Amt.Amt TID="AMT_8336">
         <Name>
           <LocalisationCH_V1.MultilingualText>
             <LocalisedText>
