@@ -5232,6 +5232,9 @@
           </OeREBKRM_V2_0.MultilingualUri>
         </VerweisWMS>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.DarstellungsDienst>
+      <!-- LOG
+                rechtsstatus="AenderungOhneVorwirkung"
+            -->
     </OeREBKRMtrsfr_V2_0.Transferstruktur>
   </DATASECTION>
 </TRANSFER>
