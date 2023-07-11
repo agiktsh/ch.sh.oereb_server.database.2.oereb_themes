@@ -23,14 +23,14 @@
   </HEADERSECTION>
   <DATASECTION>
     <OeREBKRMtrsfr_V2_0.Transferstruktur BID="ch.SH.Grundwasserschutzareale.OeREBKRMtrsfr_V2_0">
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_909">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ad04fb43-1420-45c8-9233-c41210f75e1f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzareale.Areal"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzareale.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_909">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ad04fb43-1420-45c8-9233-c41210f75e1f">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -689,16 +689,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_909"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ad04fb43-1420-45c8-9233-c41210f75e1f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_910">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_2dc087b1-29ed-44ac-90c2-6ee469e05d4a">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzareale.Areal"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzareale.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_910">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2dc087b1-29ed-44ac-90c2-6ee469e05d4a">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1225,25 +1225,25 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-05-06</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_910"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2dc087b1-29ed-44ac-90c2-6ee469e05d4a"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_909"/>
-        <Vorschrift REF="dokument_988"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ad04fb43-1420-45c8-9233-c41210f75e1f"/>
+        <Vorschrift REF="dokument_0cd3e196-d314-4e3d-bcbe-a552e04626e7"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_910"/>
-        <Vorschrift REF="dokument_992"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2dc087b1-29ed-44ac-90c2-6ee469e05d4a"/>
+        <Vorschrift REF="dokument_8b1e06be-b875-4f4e-9eed-0bf00838e7cd"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_909"/>
-        <Vorschrift REF="dokument_596"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ad04fb43-1420-45c8-9233-c41210f75e1f"/>
+        <Vorschrift REF="dokument_05f708d4-712e-4837-81d8-aa0b9ccd6e60"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_910"/>
-        <Vorschrift REF="dokument_602"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2dc087b1-29ed-44ac-90c2-6ee469e05d4a"/>
+        <Vorschrift REF="dokument_45c857e6-a6d0-435f-9a63-75117e8bc4ea"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_971">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_95f10c00-9799-4727-a0f5-fe2286e120f4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1268,9 +1268,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_972">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_51bcc2df-ff22-431b-b9c7-b61925e194e4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1295,9 +1295,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_973">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9b2e13fa-3a2e-4caa-972f-21a37157d4ed">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1322,9 +1322,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_974">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_12362b91-8f8a-4850-8daa-9eded6845c0d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1349,9 +1349,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_975">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_5e17dd17-daba-4e9e-8974-4851803c3812">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1376,9 +1376,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_976">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_c8d3c3e0-d28e-45eb-9cee-ce987c9e100f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1403,9 +1403,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_977">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_4b872a8d-0fe3-46de-873a-0bb5afcc02f2">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1430,9 +1430,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_978">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_4808e5ef-725c-4571-b045-1d363c270750">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1457,9 +1457,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_979">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ac0ea50e-d646-4acd-94ca-34a1a150e530">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1484,9 +1484,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_980">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9ad2fb48-3182-4de9-a608-9b7f6d23db10">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1511,9 +1511,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_981">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3cb031e9-6032-4f44-a726-93293efbd237">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1538,9 +1538,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_982">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_31672687-a94d-4291-8745-5e767ac770d1">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1565,9 +1565,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_984">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_dccf4d0c-813f-439f-a2d3-97ef3fec0d8f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1592,9 +1592,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_985">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f3472fe4-d496-4a49-ad15-f87d502db477">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1619,9 +1619,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_986">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_784e2a38-4e31-4d34-b514-9d090c31acfc">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1646,9 +1646,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_987">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_383d8df0-dac1-4448-84cd-6706b399938c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1673,9 +1673,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_988">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0cd3e196-d314-4e3d-bcbe-a552e04626e7">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>525</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1700,9 +1700,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_989">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_454f5c93-62ac-494a-84d6-f0d6dd51bc67">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -1727,9 +1727,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_990">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_72779a7f-d783-4192-84de-e7deb9f00cb0">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1754,9 +1754,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_991">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6094b9be-0e32-4ad5-8029-15e768979c3c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1781,9 +1781,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_992">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8b1e06be-b875-4f4e-9eed-0bf00838e7cd">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>525</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1808,9 +1808,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_993">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b080126c-bd56-423f-987c-bda619413c41">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1835,9 +1835,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_994">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_38ab02d7-9ad8-4d26-a6d5-6dca32ab710d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1862,9 +1862,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_996">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_02ab07ed-d930-4f78-955c-88551f35dbec">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1889,9 +1889,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_997">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_42be1c3f-b030-4744-9a44-dc3bf87b15e0">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1916,9 +1916,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_998">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_28af1f68-89a0-492a-af4c-a6fc93c0e774">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1943,9 +1943,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_999">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9afa592d-3fbf-41c3-bc7a-32ada259577f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1970,9 +1970,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1000">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3675ccd1-c62f-4e21-a60d-1597593859e0">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -1997,9 +1997,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1001">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_db32867d-cfec-4851-bb9f-35f65e6fda2d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2024,9 +2024,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1002">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ccb7ab75-e80a-49ea-a088-fc69c3b1c623">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2051,9 +2051,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1003">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_59f36b18-9b6c-4718-9d29-72408b77eeb8">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2078,9 +2078,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1004">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_00b74d29-a13f-4a4f-beb1-83b5cd3a56f7">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2105,9 +2105,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1005">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_85d21cad-60b9-4621-b06a-947dc540af34">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-04-30</publiziertAb>
@@ -2132,9 +2132,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1007">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f3b0a461-5871-4ea1-a90f-586a3eee8a40">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2159,9 +2159,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1008">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8aa0f911-adcd-4585-9aaf-776f5d5750db">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2186,9 +2186,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1009">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_2801e3f6-82a7-4762-961b-1bf711d21b71">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2213,9 +2213,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1010">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ee839d5b-dddd-4f85-be61-ce4645b7126d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2240,9 +2240,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1011">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_d930514c-9be2-4947-b386-7d6b9c22a3f5">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2267,9 +2267,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1012">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0e80abe6-44fc-451f-85ed-5d3544bb409c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2294,9 +2294,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1013">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_5cd3231d-1dfb-446e-897d-bd5d78ea7a32">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2321,9 +2321,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1014">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_24dbb588-9001-40f3-9e98-e39b0a489054">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-05-18</publiziertAb>
@@ -2348,9 +2348,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1015">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b8221803-d28e-4561-af6c-c3a0ac188916">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2375,9 +2375,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1016">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_29d7367a-0759-4a77-96d0-88a0266dfbd6">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2402,9 +2402,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1017">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_32dcf4d3-90b8-44b7-afc8-51d4f1283225">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-05-18</publiziertAb>
@@ -2429,9 +2429,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1018">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9a98c2af-81dc-4c27-9630-c62524a7f11f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -2456,9 +2456,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_544">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_06d8686d-4543-47bf-91a8-41eaddd0f876">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2483,9 +2483,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_545">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ee576cf2-2246-4c7e-9e62-460d428d48bd">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2510,9 +2510,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_546">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_92b065b7-6ce4-4776-9415-21f1fc4a6e28">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2537,9 +2537,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_547">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e28429d8-1063-4f19-b615-7fa2af721afd">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2564,9 +2564,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_548">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_01a6e467-2da9-44dd-a9c3-044d3a67d364">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2591,9 +2591,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_549">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0a46d083-2d08-4c48-bcf6-bb2b1ecec194">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2618,9 +2618,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_550">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b2c70204-6465-4996-998a-086ef66811ec">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2645,9 +2645,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_551">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_bd507700-c1c0-4cdb-aa22-af9ad3bbdba7">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2672,9 +2672,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_552">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_cf709ab2-85c7-4ca9-a5d5-408168ab989e">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2699,9 +2699,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_553">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_48909e09-fec3-40c7-b283-25a6935362d7">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2726,9 +2726,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_554">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_7771628c-4c44-423f-8df7-7fae86a48b42">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2753,9 +2753,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_555">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_fed8fdf4-437e-48b2-a26c-441ec75637ea">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2780,9 +2780,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_556">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_2ab02722-862c-4d73-b341-03c664672134">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2807,9 +2807,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_557">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_be5a5f4f-07f6-4873-aff4-061514394679">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2834,9 +2834,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_558">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8a2f09b8-14a1-4466-be9a-9b45c318c3aa">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2861,9 +2861,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_559">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_db194ac3-4f12-4aef-a4d0-1143543a01d1">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2888,9 +2888,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_560">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_d4f12d03-4bac-40e8-b423-63df16f5fad3">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-05-18</publiziertAb>
@@ -2915,9 +2915,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_561">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6162a047-d035-452a-89bc-786def325482">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2942,9 +2942,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_562">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_bdf87699-0473-487b-805f-d66bd8fd442f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -2969,9 +2969,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_563">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e0e971fe-5a1e-47c9-ad5e-1711874cade9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-05-18</publiziertAb>
@@ -2996,9 +2996,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_564">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_4c01362e-1f7d-4abc-b8ce-b751a48b47bf">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3023,9 +3023,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_565">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_4656a419-1cc0-4a46-8480-a07f685e3be1">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3050,9 +3050,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_566">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b58d600c-1245-4ad4-807d-884108bec94e">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3077,9 +3077,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_567">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9c25c331-1d46-4441-9999-33e683b8eb0e">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3104,9 +3104,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_568">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_7d5440cb-fdc0-4797-9b0d-a22b18819117">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3131,9 +3131,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_569">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_7424414e-cd9b-465e-b450-a7dc0533137c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3158,9 +3158,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_570">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_82a07671-0bc3-4b8c-bd32-ad1ce0a41b53">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3185,9 +3185,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_571">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_d54ad405-3603-4adf-98e7-7949342d8499">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3212,9 +3212,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_572">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_39ea73a2-5c34-4ff7-9229-b47f4387a8df">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3239,9 +3239,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_573">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_953fce8c-28de-4060-b20e-82084e78d644">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3266,9 +3266,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_574">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_35a5bfdb-c3a3-4151-a9a0-f5cd5b01955f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3293,9 +3293,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_575">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ac55e753-bff1-4dd8-aeb3-44fa7f327429">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3320,9 +3320,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_576">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_739629e8-8309-40cb-891d-4f4b6dd242f3">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3347,9 +3347,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_577">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_573b2de0-08c5-46cf-9ae3-8b851ea42aee">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-04-30</publiziertAb>
@@ -3374,9 +3374,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_578">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1070db5d-3d34-41a5-8a29-63175bd1c63b">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3401,9 +3401,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_579">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_23e412b5-d10f-43a9-9f73-e5269fead02d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -3428,9 +3428,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_580">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_291ed368-1b9a-4ef1-9229-ec03767f7341">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3455,9 +3455,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_581">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_118d3eb1-eb84-49b0-8f30-8d45809f71c9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3482,9 +3482,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_582">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_af10e44a-dd47-449d-9b08-dfff254f47bb">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3509,9 +3509,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_583">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_d166513d-b2ae-4b42-bf38-a0fc7bac5dc2">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3536,9 +3536,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_584">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_cdb292c4-d8f0-405d-9431-b22f36f779bb">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3563,9 +3563,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_585">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_7f8b21fc-d2d4-43ef-b400-392eeda6d9f9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3590,9 +3590,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_586">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_2d8eda3e-7730-452a-bcfc-d7d836472d6f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3617,9 +3617,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_587">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9a1b1b66-0ed3-42b8-8a3c-51e9b71a1dd9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3644,9 +3644,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_588">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9fe9ca79-a361-4622-b115-ad76f547fff1">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3671,9 +3671,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_589">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0a66f125-ea5b-407a-b51d-ea54392aaac4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3698,9 +3698,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_590">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b82039d3-a67a-4393-9fe4-a0bd268cd01b">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3725,9 +3725,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_591">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_c6d9f001-5e31-42ee-94ee-78a1e7040b92">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3752,9 +3752,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_592">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_d68874d4-c72d-4842-a023-e6ec34ecb6df">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3779,9 +3779,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_593">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_2d5d48f9-50e2-4dc7-b74a-29b1ec64845a">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3806,9 +3806,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_594">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f45eb4b5-2153-46a0-a735-9e8f9adc9a7f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3833,9 +3833,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_595">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3a3437e1-738e-4c40-80bc-cb42bf095152">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3860,9 +3860,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_596">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_05f708d4-712e-4837-81d8-aa0b9ccd6e60">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>525</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3887,9 +3887,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_597">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3b6359d9-09e7-4d2b-bd87-1221105e0496">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3914,9 +3914,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_598">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_a2fa3594-a518-492d-ba8b-a1183ccfad3e">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -3941,9 +3941,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_599">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_13f27064-9277-4988-afaa-d88f1fbb586d">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-09-04</publiziertAb>
@@ -3968,9 +3968,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_600">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_99baafac-b517-46a7-814a-3c62c4da3b07">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-07-04</publiziertAb>
@@ -3995,9 +3995,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_601">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_19132c96-bc68-4845-af12-18be65f0f7f4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4022,9 +4022,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_602">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_45c857e6-a6d0-435f-9a63-75117e8bc4ea">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>525</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4049,9 +4049,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_603">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_14140014-4f5b-4386-8240-4ff3b23da80f">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-07-04</publiziertAb>
@@ -4076,9 +4076,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_604">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_feb35556-eeba-4b64-988b-7b3086e04533">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2019-07-04</publiziertAb>
@@ -4103,9 +4103,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_605">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e3e4caf2-2a08-4203-bf66-d56ebfdfa38c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4130,9 +4130,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_606">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_5ab9198d-64ed-41be-92b2-e3895cb4b20c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4157,9 +4157,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_607">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_575947cf-5922-4697-abda-c6b8bd6410fc">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4184,9 +4184,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_608">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1a03e360-2012-4828-88e1-540e75b30bb3">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4211,9 +4211,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_609">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e0f2a477-ca0b-49b7-ac3c-6cd75f57d9be">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4238,9 +4238,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_610">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_56e0bfc5-a92e-4a3e-9bb6-20149ec133ff">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4265,9 +4265,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_611">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_581a8309-43c1-4b31-b223-fa003a2b1fb9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4292,9 +4292,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_612">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_77c4d857-9189-422a-ae12-34e9d8e637dd">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4319,9 +4319,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_613">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_64699eb7-fb77-4eaf-bcb7-a870515e9169">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4346,9 +4346,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_614">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_bd594ff0-948e-42a8-a95f-9130f32cee46">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4373,9 +4373,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_615">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_434fb478-4acd-4f59-bec6-c6a40c218de2">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4400,9 +4400,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_616">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_a4fda299-3ee9-4709-943b-1c049759d37a">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4427,9 +4427,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_617">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ab251357-1d4b-40aa-9fe1-c563a3e62ef2">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4454,9 +4454,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_618">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9fa6a3a8-3dc4-4b3e-a3c0-29691056a68c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4481,9 +4481,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_619">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_01737713-2732-4ec4-9c1f-c8efa710751c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4508,9 +4508,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_620">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_9f731b72-07b3-42fd-96c4-224ec9850d17">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4535,9 +4535,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_621">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0790ec1e-3c4b-43ff-94eb-70bdaa02637d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4562,9 +4562,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_622">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_5253a6bd-977e-4d4a-a8db-98dd67cf52c1">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4589,9 +4589,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_623">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b9527592-957f-46b6-8a7c-c11cc5b1d881">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4616,9 +4616,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_624">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_1e0c7647-79be-4585-815c-f10e3668813e">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4643,9 +4643,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_625">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_b0e06480-f2c5-4cca-8992-c7a6be91672a">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4670,9 +4670,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_626">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_70daa037-1a02-4871-9532-44b16b730687">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4697,9 +4697,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_627">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6c60a551-32ae-43a0-976d-8f76f37e0075">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2018-01-01</publiziertAb>
@@ -4724,9 +4724,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_628">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_845a26d6-8428-48ac-ba80-b25ae0164747">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2020-07-10</publiziertAb>
@@ -4751,9 +4751,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_629">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f0ff4ac7-092b-47b4-88f9-b183e60448b8">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2021-03-08</publiziertAb>
@@ -4778,9 +4778,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_630">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_300c1daf-8c8c-4eca-9ca6-42b29ad8d882">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2021-03-08</publiziertAb>
@@ -4805,9 +4805,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_631">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0acfc8f8-74f5-41f8-9fb3-48b95ac85de8">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2021-03-08</publiziertAb>
@@ -4832,9 +4832,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_632">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0dffd855-1ee7-49dc-9988-c379b52add7f">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2021-03-08</publiziertAb>
@@ -4859,9 +4859,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_633">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f219a62e-6f8d-4a36-8b6a-284062dcbe2d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -4886,9 +4886,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_634">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e4033ff9-bddf-42be-9472-7d33820fdd3c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -4913,9 +4913,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_635">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6fb8643e-dbb2-4a6e-aeba-5202c0bc0cee">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -4940,9 +4940,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_636">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_94cf4914-0f9e-4509-822f-898dd0c39f92">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -4967,9 +4967,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_637">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f24c29b7-867a-4443-aa57-1f1264281ba4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -4994,9 +4994,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_638">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3c4e0acd-ceb5-4737-b691-6f1420ae9b95">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -5021,9 +5021,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_639">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_47c3fef4-278a-4959-9657-558124beadc0">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -5048,9 +5048,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_640">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_cdb4f1a2-62cd-4d8d-8760-f883e59943b9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>515</AuszugIndex>
         <publiziertAb>2022-01-24</publiziertAb>
@@ -5075,9 +5075,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_641"/>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Amt.Amt TID="AMT_641">
+      <OeREBKRM_V2_0.Amt.Amt TID="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496">
         <Name>
           <LocalisationCH_V1.MultilingualText>
             <LocalisedText>
