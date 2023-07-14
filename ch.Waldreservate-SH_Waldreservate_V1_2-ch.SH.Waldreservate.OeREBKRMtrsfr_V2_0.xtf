@@ -72272,7 +72272,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_01.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72304,7 +72313,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_02.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72336,7 +72354,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_03.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72368,7 +72395,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_04.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72400,7 +72436,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_05_2.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72432,7 +72477,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_05_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72464,7 +72518,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_06.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72496,7 +72559,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_07.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72528,7 +72600,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_08.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72560,7 +72641,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_09.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72592,7 +72682,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_10.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72624,7 +72723,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_11.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72656,7 +72764,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_12.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72688,7 +72805,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_13.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72720,7 +72846,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_14.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72756,7 +72891,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_15.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72788,7 +72932,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_16.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72820,7 +72973,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_M1_bis_M3.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72864,7 +73026,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_M7.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
@@ -72896,7 +73067,16 @@
           </LocalisationCH_V1.MultilingualText>
         </Titel>
         <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb/>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/160_SH_M8.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
         <ZustaendigeStelle REF="AMT_18f1ab99-7840-4605-9e0e-d7d448d6da27"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
