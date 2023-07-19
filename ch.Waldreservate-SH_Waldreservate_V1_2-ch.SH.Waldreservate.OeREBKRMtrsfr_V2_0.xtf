@@ -72241,11 +72241,21 @@
             <LocalisedText>
               <LocalisationCH_V1.LocalisedText>
                 <Language>de</Language>
-                <Text>Kantonsforstamt</Text>
+                <Text>Kantonsforstamt Schaffhausen</Text>
               </LocalisationCH_V1.LocalisedText>
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </Name>
+        <AmtImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Baudepartement/Kantonsforstamt-3610-DE.html</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </AmtImWeb>
       </OeREBKRM_V2_0.Amt.Amt>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f27064b1-9275-487c-8754-f23ddea5cd06">
         <Rechtsstatus>inKraft</Rechtsstatus>
