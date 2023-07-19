@@ -904,6 +904,11 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </AmtImWeb>
+        <Zeile1>Gemeinde Beggingen</Zeile1>
+        <Strasse>Dorfstrasse</Strasse>
+        <Hausnr>4</Hausnr>
+        <PLZ>8228</PLZ>
+        <Ort>Beggingen</Ort>
       </OeREBKRM_V2_0.Amt.Amt>
       <OeREBKRM_V2_0.Amt.Amt TID="AMT_ch.2917.gemeindeverwaltung">
         <Name>
@@ -926,6 +931,11 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </AmtImWeb>
+        <Zeile1>Gemeinde Lohn (SH)</Zeile1>
+        <Strasse>Unterdorf</Strasse>
+        <Hausnr>11</Hausnr>
+        <PLZ>8235</PLZ>
+        <Ort>Lohn</Ort>
       </OeREBKRM_V2_0.Amt.Amt>
       <OeREBKRM_V2_0.Amt.Amt TID="AMT_ch.2973.gemeindeverwaltung">
         <Name>
@@ -948,6 +958,11 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </AmtImWeb>
+        <Zeile1>Gemeinde Trasadingen</Zeile1>
+        <Strasse>Dorfstrasse</Strasse>
+        <Hausnr>23</Hausnr>
+        <PLZ>8219</PLZ>
+        <Ort>Trasadingen</Ort>
       </OeREBKRM_V2_0.Amt.Amt>
       <!-- LOG
                 rechtsstatus="inKraft"

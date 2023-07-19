@@ -1512,6 +1512,7 @@
         </AmtImWeb>
         <UID>116.015.261</UID>
         <Strasse>Mühlentalstrasse</Strasse>
+        <Hausnr>188</Hausnr>
         <PLZ>8200</PLZ>
         <Ort>Schaffhausen</Ort>
       </OeREBKRM_V2_0.Amt.Amt>
