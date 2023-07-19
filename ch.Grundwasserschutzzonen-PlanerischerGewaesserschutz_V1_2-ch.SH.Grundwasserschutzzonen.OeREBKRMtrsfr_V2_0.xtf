@@ -64100,8 +64100,8 @@
           <OeREBKRM_V2_0.MultilingualUri>
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
-                <Language/>
-                <Text>http://www.interkantlab.ch/index.php?id=22&amp;L=4</Text>
+                <Language>de</Language>
+                <Text>https://www.interkantlab.ch</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
