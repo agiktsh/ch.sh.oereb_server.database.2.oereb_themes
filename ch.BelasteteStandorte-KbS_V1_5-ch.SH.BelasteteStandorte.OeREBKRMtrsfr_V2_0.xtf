@@ -39,7 +39,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>http://map.geo.admin.ch/?Y=660000&amp;X=190000&amp;zoom=1&amp;bgOpacity=0&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.bav.kataster-belasteter-standorte-oev&amp;layers_opacity=0.8&amp;layers_visibility=true&amp;lang=de</Text>
+                <Text>https://www.bav.admin.ch/</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -61,7 +61,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://www.kbs-vbs.ch/</Text>
+                <Text>https://www.vbs.admin.ch/</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -83,7 +83,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://www.interkantlab.ch</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3053,7 +3053,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/50-8455.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3228,7 +3228,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/176-4753.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3315,7 +3315,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-3924.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3402,7 +3402,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/49.03-10942.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3497,7 +3497,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-3509.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3584,7 +3584,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/48.05-3103.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3779,7 +3779,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/58.01-933.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3894,7 +3894,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/113-729.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -3985,7 +3985,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/39.01-3109.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4092,7 +4092,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/154-309.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4207,7 +4207,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/152-165.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4294,7 +4294,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/49.04-3110.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4501,7 +4501,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/182-21179.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4588,7 +4588,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/27.02-1897.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4739,7 +4739,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/151-135.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4890,7 +4890,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/244-3903.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -4985,7 +4985,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/257-425.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -5072,7 +5072,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-4313.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -5167,7 +5167,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/236-818.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -5266,7 +5266,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/287-1804.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -5469,7 +5469,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/58.03-933.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -5864,7 +5864,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/213-5985.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -5983,7 +5983,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/194-6514.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -6606,7 +6606,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/221-5790.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -6725,7 +6725,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/177-3903.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -6976,7 +6976,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/219-5743.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -7127,7 +7127,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/168-993.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -7274,7 +7274,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/77.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -7457,7 +7457,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/92.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -7608,7 +7608,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/197.01-2146.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -7787,7 +7787,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/267-3107.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -7974,7 +7974,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/160-193.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -8117,7 +8117,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/183-6205,6213,12519,1252</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -8208,7 +8208,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/27.05-1897.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -8327,7 +8327,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/99-1694.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -8470,7 +8470,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/131-1564.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -8589,7 +8589,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/103-938.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -8720,7 +8720,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/200-543.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -8807,7 +8807,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/237-1709.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9030,7 +9030,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/64-1777.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9173,7 +9173,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/228-933.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9264,7 +9264,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/231-235.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9383,7 +9383,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-3561.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9526,7 +9526,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/35.01-4398.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9677,7 +9677,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/84-829.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9764,7 +9764,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/18-578.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9859,7 +9859,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/38-6099.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -9994,7 +9994,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/30-1764.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -10193,7 +10193,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/121-1646.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -10520,7 +10520,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.02-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -10619,7 +10619,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/74-369.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -10758,7 +10758,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/114-1758.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -10845,7 +10845,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/6.3-39.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -10956,7 +10956,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/246-20415.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -11083,7 +11083,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/71-328.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -11174,7 +11174,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/25-328.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -11277,7 +11277,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-4312.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -11384,7 +11384,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/49.01-10942.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -11471,7 +11471,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/68.03-491.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -11570,7 +11570,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/271-552.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -12753,7 +12753,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/36.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -12840,7 +12840,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/278-1780.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -12927,7 +12927,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/48.04-3103.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13014,7 +13014,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/239-358.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13145,7 +13145,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/226-6109.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13232,7 +13232,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/48.01-3103.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13379,7 +13379,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/243-1646.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13470,7 +13470,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/155-4546.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13557,7 +13557,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/39.03-3109.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13712,7 +13712,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/201-2.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13863,7 +13863,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/109-699.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -13966,7 +13966,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/108-449.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -14197,7 +14197,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/163-75.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -14348,7 +14348,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/116-1131.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -14487,7 +14487,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/172-543.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -14614,7 +14614,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/273-2968.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -14753,7 +14753,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/96.01-2637.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -14868,7 +14868,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/96.02-2638.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -14967,7 +14967,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/277-19.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15098,7 +15098,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/276-13.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15217,7 +15217,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/156-866.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15320,7 +15320,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/40.02-162.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15439,7 +15439,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/62.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15526,7 +15526,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/7-669.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15621,7 +15621,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/241-201.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15740,7 +15740,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/153-205.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15835,7 +15835,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/268-71.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -15970,7 +15970,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/185-538.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -16057,7 +16057,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/48.06-3103.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -16148,7 +16148,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/6.5-39.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -16327,7 +16327,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/107-3641.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -16434,7 +16434,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/197.02-2146.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -16529,7 +16529,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/56-487.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -17384,7 +17384,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/44-10298.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -17471,7 +17471,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/27.04-1897.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -17562,7 +17562,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/251-6389.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -17665,7 +17665,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.05-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -17852,7 +17852,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.10-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -17959,7 +17959,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/78-80.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -18050,7 +18050,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/144.01-388.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -18153,7 +18153,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/181-1373.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -18244,7 +18244,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/269.02-5057.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -18919,7 +18919,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-3839.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19034,7 +19034,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/124-902.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19253,7 +19253,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/37-1031.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19340,7 +19340,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/39.02-3109.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19479,7 +19479,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/115-1903.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19566,7 +19566,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/27.03-1897.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19661,7 +19661,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/203-390.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19748,7 +19748,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/46.02-11633.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19899,7 +19899,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/100-938.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -19986,7 +19986,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/289-1592.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -20097,7 +20097,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-3562.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -20184,7 +20184,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.11-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -20275,7 +20275,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/247-1804.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -20418,7 +20418,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/198-836.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -21521,7 +21521,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/41-288.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -21660,7 +21660,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/162-69.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -21755,7 +21755,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/35.02-4398.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -21842,7 +21842,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/235.2-152.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -21941,7 +21941,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/290.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -22044,7 +22044,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.09-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -22139,7 +22139,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/6.1-39.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -22234,7 +22234,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/245-1890.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -22349,7 +22349,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/94-3845.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -22456,7 +22456,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/98-129.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -22543,7 +22543,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/53-845.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -23206,7 +23206,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/283-1893.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -23293,7 +23293,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/48.03-3103.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -23384,7 +23384,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/158-1018.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -23519,7 +23519,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/139-1886.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -23718,7 +23718,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/135-1105.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -23805,7 +23805,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/10-5000.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -23892,7 +23892,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/5-91.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -24015,7 +24015,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-2475_2476.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -24206,7 +24206,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/217-3915.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -24309,7 +24309,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/49.06-3110.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -24540,7 +24540,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/187-20496.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -24663,7 +24663,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/278-1780.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -26926,7 +26926,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/69-2917.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27157,7 +27157,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.03-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27248,7 +27248,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/16-8.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27351,7 +27351,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/128-275.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27438,7 +27438,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/6.4-39.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27653,7 +27653,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/48.02-3103.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27744,7 +27744,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/229.01-331.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27887,7 +27887,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/146-965.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -27974,7 +27974,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/14-323.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28097,7 +28097,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/147.02-6149.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28188,7 +28188,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/233-128.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28435,7 +28435,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/224.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28594,7 +28594,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/193-763.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28705,7 +28705,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/106-473.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28796,7 +28796,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/8.1-491.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28907,7 +28907,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/186-2673.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -28994,7 +28994,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/40.01-162.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -29081,7 +29081,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.07-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -29184,7 +29184,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/101-12.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -29371,7 +29371,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/68.02-491.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -29470,7 +29470,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/24-1711_2038.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -29637,7 +29637,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/171-2160.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -29724,7 +29724,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/261-3777.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -29823,7 +29823,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/207-235.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30038,7 +30038,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/178-20415.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30205,7 +30205,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/58.02-933.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30304,7 +30304,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/49.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30447,7 +30447,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/195-465.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30594,7 +30594,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/102-1271.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30689,7 +30689,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/57-11791.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30820,7 +30820,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/260.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -30939,7 +30939,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/73-169.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31062,7 +31062,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/263-996.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31149,7 +31149,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/161-155.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31244,7 +31244,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/265.01-1414.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31331,7 +31331,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/265.02-1489.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31478,7 +31478,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/259-415.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31565,7 +31565,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/269.01-5057.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31652,7 +31652,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/15-1036.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31827,7 +31827,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/190-3961.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -31914,7 +31914,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/34-996.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32025,7 +32025,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/272-68.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32144,7 +32144,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/223.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32399,7 +32399,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/266-2401.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32506,7 +32506,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/130-1224.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32641,7 +32641,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/169-1114.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32736,7 +32736,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/140-1822.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32855,7 +32855,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/134-1228.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -32982,7 +32982,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/159.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -33121,7 +33121,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/119-1951.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -33316,7 +33316,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/250-50.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -33407,7 +33407,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/11-2101.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -33502,7 +33502,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/26.2-1271.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -33617,7 +33617,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/281-4010.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -33780,7 +33780,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/91-3843.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -33931,7 +33931,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/149-134.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34058,7 +34058,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/136-1714.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34177,7 +34177,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/192-20490.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34288,7 +34288,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/118-1607.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34471,7 +34471,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/132-1388.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34558,7 +34558,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/31-4.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34669,7 +34669,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/68.01-491.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34784,7 +34784,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/85-110.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -34871,7 +34871,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/27.06-1897.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -35002,7 +35002,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/79-184.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -35461,7 +35461,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.01-895.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -35548,7 +35548,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/26.1-1271.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -35635,7 +35635,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/67-1418.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -35926,7 +35926,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/175-5724.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38197,7 +38197,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/47-21125.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38324,7 +38324,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/150-1.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38435,7 +38435,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/204-199.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38526,7 +38526,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/88-9.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38613,7 +38613,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/229.02-331.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38740,7 +38740,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/209-3912.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38855,7 +38855,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/120-1300.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -38950,7 +38950,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/117-1434.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -39061,7 +39061,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/166-1023.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -39472,7 +39472,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/227-6568.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -39595,7 +39595,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/164-280.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -40298,7 +40298,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/55-8520.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -40393,7 +40393,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/125-251.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -40556,7 +40556,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/133-1727.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -40731,7 +40731,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/89-1671.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -40870,7 +40870,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/205-248.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -40961,7 +40961,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/6.2-39.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -41548,7 +41548,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/51-10297.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -41651,7 +41651,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/137-443.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -41738,7 +41738,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/28-699.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -41825,7 +41825,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/235.1-152.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -41936,7 +41936,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/255-151.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42023,7 +42023,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.08-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42158,7 +42158,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/62.02-11342.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42285,7 +42285,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/80-384.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42424,7 +42424,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/82-322.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42523,7 +42523,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/238-1224.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42610,7 +42610,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/274-473.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42697,7 +42697,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/17-695.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42784,7 +42784,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/20-455.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -42923,7 +42923,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/127-271.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -43026,7 +43026,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/126-199.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -43209,7 +43209,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/141-1952.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -43416,7 +43416,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/214-21290.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -43687,7 +43687,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/184-1.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -43922,7 +43922,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/220-3520.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -44097,7 +44097,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.04-895.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -44188,7 +44188,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/60.06-744.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -44299,7 +44299,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/222-224.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -44462,7 +44462,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/284.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -44553,7 +44553,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/145-718.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -45028,7 +45028,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/43.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -45283,7 +45283,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/86.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -45422,7 +45422,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/95-802.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -45709,7 +45709,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/105-551.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -45864,7 +45864,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/280-869.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -45967,7 +45967,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/49.5.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46074,7 +46074,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/144.02-388.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46161,7 +46161,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/147.01-6147.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46504,7 +46504,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/279-4060.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46591,7 +46591,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/234-4549.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46678,7 +46678,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/286-689.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46765,7 +46765,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/8.2-497.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46856,7 +46856,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/22-1020.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -46943,7 +46943,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/21-1324.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47046,7 +47046,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/173-412.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47141,7 +47141,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/12.02-20507.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47344,7 +47344,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/111-797.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47463,7 +47463,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/81.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47550,7 +47550,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/232-440.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47725,7 +47725,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/275-3930.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47816,7 +47816,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/264-3909.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -47923,7 +47923,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/147.03-6144.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -48010,7 +48010,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/248-355.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -48125,7 +48125,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/59.04a-675.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -48264,7 +48264,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/59.04-675.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -48371,7 +48371,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/165-856.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -48466,7 +48466,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/122-2005.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -66505,7 +66505,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/59.05-675.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -66660,7 +66660,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/27.01-1897.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -66775,7 +66775,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/59.02-675.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -66914,7 +66914,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/288-1641.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -67041,7 +67041,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/90-2083,2084.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -67152,7 +67152,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/2.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -67539,7 +67539,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/46.01-12481.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -67646,7 +67646,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/59.03-675.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -67733,7 +67733,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/29-2.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -67820,7 +67820,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/59.06-3919.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -68211,7 +68211,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/282-1644.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -68362,7 +68362,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/167-564.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -68457,7 +68457,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/19-6122.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -68560,7 +68560,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/270-1271.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -68647,7 +68647,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/13-25.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -68794,7 +68794,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/290.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -68953,7 +68953,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/218.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -69064,7 +69064,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/216.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -69183,7 +69183,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/174-256.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -69318,7 +69318,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/72.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -69425,7 +69425,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/240-194.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -69608,7 +69608,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/87.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -69743,7 +69743,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/215.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70010,7 +70010,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/143-1002.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70097,7 +70097,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/157-33.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70192,7 +70192,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/83.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70287,7 +70287,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/242-6125.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70458,7 +70458,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/93.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70561,7 +70561,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/142.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70740,7 +70740,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/70.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70827,7 +70827,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/12.01-20513.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -70914,7 +70914,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/9-1106.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -71013,7 +71013,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/92.01-5784.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -71180,7 +71180,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/75.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -71391,7 +71391,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/208.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -72302,7 +72302,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/285-779.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -73613,7 +73613,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/52-1.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -73700,7 +73700,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/1.1-9.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -73799,7 +73799,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/1.2-9.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -73894,7 +73894,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/23-348.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -73997,7 +73997,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
+                <Text>https://data.geo.sh.ch/oereb/HAL_292-1951.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
