@@ -39,7 +39,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://www.bav.admin.ch/</Text>
+                <Text>http://map.geo.admin.ch/?Y=660000&amp;X=190000&amp;zoom=1&amp;bgOpacity=0&amp;bgLayer=ch.swisstopo.pixelkarte-farbe&amp;layers=ch.bav.kataster-belasteter-standorte-oev&amp;layers_opacity=0.8&amp;layers_visibility=true&amp;lang=de</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -61,7 +61,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://www.vbs.admin.ch/</Text>
+                <Text>https://www.kbs-vbs.ch/</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
@@ -83,7 +83,7 @@
             <LocalisedText>
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
-                <Text>https://www.interkantlab.ch</Text>
+                <Text>https://map.geo.sh.ch/geoportal/?project=Geoportal%20Schaffhausen&amp;legend=Legende&amp;rotation=0.00&amp;scale=93142&amp;center=2692188,1281687&amp;layers=4afa3fed-5560-4de8-bb88-329dc0608713</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
