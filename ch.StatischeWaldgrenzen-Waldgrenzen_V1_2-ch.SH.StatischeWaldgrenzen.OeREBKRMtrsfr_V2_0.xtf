@@ -42628,6 +42628,12 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </AmtImWeb>
+        <UID>CHE999999999</UID>
+        <Zeile1>Kantonsforstamt Schaffhausen</Zeile1>
+        <Strasse>Beckenstube</Strasse>
+        <Hausnr>11</Hausnr>
+        <PLZ>8200</PLZ>
+        <Ort>Schaffhausen</Ort>
       </OeREBKRM_V2_0.Amt.Amt>
       <!-- LOG
                 rechtsstatus="inKraft"

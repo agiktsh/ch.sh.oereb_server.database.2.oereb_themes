@@ -72256,6 +72256,10 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </AmtImWeb>
+        <Strasse>Beckenstube</Strasse>
+        <Hausnr>11</Hausnr>
+        <PLZ>8200</PLZ>
+        <Ort>Schaffhausen</Ort>
       </OeREBKRM_V2_0.Amt.Amt>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_f27064b1-9275-487c-8754-f23ddea5cd06">
         <Rechtsstatus>inKraft</Rechtsstatus>
