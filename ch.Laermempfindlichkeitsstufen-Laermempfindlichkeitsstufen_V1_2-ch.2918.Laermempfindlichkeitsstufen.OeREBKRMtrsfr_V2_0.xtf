@@ -27,7 +27,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1996-10-08</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ea8473b7-7334-449f-bbd4-23364ea66bb2">
@@ -83,7 +83,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4b4d8d38-5b76-4b75-a4c0-ecf437ae05c3">
@@ -175,7 +175,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-12-16</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_36387230-7c8c-4420-8f21-82cceeae94c4">
@@ -243,7 +243,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2005-04-19</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_469a1f4a-ff5e-4d67-9861-a0d844c93fab">
@@ -319,7 +319,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a8c7410e-ff5d-48d4-a073-6d32e66ee7d3">
@@ -379,7 +379,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7597b88b-1544-4e08-b826-d260d15d8caa">
@@ -439,7 +439,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2010-09-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_99cad89a-ec6e-4564-89ef-6df63aa2b45d">
@@ -519,7 +519,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f95731a4-f4cc-43d1-a355-710dfca59923">
@@ -587,7 +587,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_044d9734-986a-44b8-920b-c1432c1d2cfa">
@@ -731,7 +731,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_07cd3c52-e510-451d-bd40-b95f98951057">
@@ -791,7 +791,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_789f1e46-98bb-47e7-86c4-4c4666cfac8c">
@@ -979,7 +979,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e52a2169-50c8-4f9c-8226-2815d374adba">
@@ -1145,7 +1145,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_622c38b5-f454-47a5-9883-1cd9cc953084">
@@ -1221,7 +1221,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1182323a-3e33-487b-97ca-7c1c6268dabd">
@@ -1293,7 +1293,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ad62b22c-99d8-4023-9035-e7910c8f862d">
@@ -1349,7 +1349,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_5d437351-13b9-41e8-b78e-e8386ff27e35">
@@ -1469,7 +1469,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_40fb7dde-2fc1-4457-9bb3-4495d9073d6c">
@@ -1581,7 +1581,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
         <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e9ac5bac-337b-4978-b36f-a77197092da8">
@@ -1823,7 +1823,7 @@
       <!-- LOG
                 rechtsstatus="inKraft"
             -->
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III_aufgestuft">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III.Aufgestuft.inKraft">
         <Symbol>
           <BINBLBOX>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</BINBLBOX>
         </Symbol>
@@ -1837,12 +1837,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_III_aufgestuft_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_III_aufgestuft</ArtCodeliste>
+        <ArtCode>ES_III_true_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_III.Aufgestuft.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II_aufgestuft">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II.Aufgestuft.inKraft">
         <Symbol>
           <BINBLBOX>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</BINBLBOX>
         </Symbol>
@@ -1856,12 +1856,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_II_aufgestuft_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_II_aufgestuft</ArtCodeliste>
+        <ArtCode>ES_II_true_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_II.Aufgestuft.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOilVAfkZAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADtJREFUWMPtzkENADAIBLBj/nVgE1TsQdIqaE3nnJdIS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0v/swqiAfUmgy26AAAAAElFTkSuQmCC</BINBLBOX>
         </Symbol>
@@ -1875,12 +1875,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_II_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_II</ArtCodeliste>
+        <ArtCode>ES_II_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_II.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_I">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_I.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOgb+0MRAAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADtJREFUWMPtzkENADAIBLBj/tViAFTsQdIqaE3nnJdIS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0v/s2/iAkE49EOOAAAAAElFTkSuQmCC</BINBLBOX>
         </Symbol>
@@ -1894,12 +1894,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_I_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_I</ArtCodeliste>
+        <ArtCode>ES_I_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_I.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOwQJxZQtAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADtJREFUWMPtzkENADAIBLBj/vAvB1TsQdIqaE3nnJdIS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0v/szW2AZzru5Q3AAAAAElFTkSuQmCC</BINBLBOX>
         </Symbol>
@@ -1913,12 +1913,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_III_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_III</ArtCodeliste>
+        <ArtCode>ES_III_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_III.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_IV">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_IV.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOzVYG5QXAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADlJREFUWMPtzkENAAAIBKDT/jnNYQofbpCAmvzTkZaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWPrTxBQE2IZR8VQAAAABJRU5ErkJggg==</BINBLBOX>
         </Symbol>
@@ -1932,8 +1932,8 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_IV_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_IV</ArtCodeliste>
+        <ArtCode>ES_IV_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_IV.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
