@@ -27,7 +27,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7c92b210-d0e8-4c31-9019-4c9c56a6b5a0">
@@ -123,7 +123,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_097b941c-71d0-42ed-8948-ded730516afc">
@@ -181,7 +181,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ec7a9a9f-349d-43cd-9b82-b7c7ea5b0d0e">
@@ -293,7 +293,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f08d2157-6067-4dca-bd0e-ba636e1cf29e">
@@ -357,7 +357,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3fddb6e5-b5a5-48b5-bb44-bb17ecd41637">
@@ -397,7 +397,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b647bf6e-62d8-4418-94dd-a460a195cd35">
@@ -541,7 +541,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_50f69538-87f3-4d33-9235-3826a7e2cfbb">
@@ -581,7 +581,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ce6dec8d-79c1-4d57-95a2-4d8c723c8908">
@@ -657,7 +657,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8204ef58-319f-44bb-8e7b-45548edf1472">
@@ -977,7 +977,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4cd9da97-b0ce-47ca-8361-25fdc3b23b5f">
@@ -1047,7 +1047,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9dfdee3c-d4c8-4969-8c76-0b115e763237">
@@ -1115,7 +1115,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b0670375-9788-47d4-aa84-805e2bfa9e95">
@@ -1273,7 +1273,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1469d275-a256-44f7-8544-0542e13c6dc2">
@@ -1373,7 +1373,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8268a499-74af-45d4-979b-54f95a10164b">
@@ -1473,7 +1473,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c439b68f-92c2-4230-8141-a3e6eb8f8e99">
@@ -1561,7 +1561,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2c8e0099-e89f-490e-88bc-c3a1ac2b99f5">
@@ -1745,7 +1745,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_14396139-2073-4867-bf7c-371186e4571e">
@@ -1905,7 +1905,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d6388f5d-2656-4cdf-9c5d-4c95aeaaaa28">
@@ -2013,7 +2013,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_18394231-64dc-4817-ac9a-926ed8440fc7">
@@ -2085,7 +2085,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e68c21ca-3853-4d80-9c42-e82f56a9c75e">
@@ -2121,7 +2121,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_eb6ac7f1-3eb5-43d4-ad37-814e583f9842">
@@ -2181,7 +2181,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_5851e411-cdb9-46ec-a949-09e2c868dcda">
@@ -2265,7 +2265,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_81645ee3-a471-455b-889f-8b6cc4364eea">
@@ -2337,7 +2337,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a94304a2-823c-47a5-8cd9-495276588cc4">
@@ -2397,7 +2397,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8c496c73-001a-46f7-b483-b05a7bdecdfa">
@@ -2467,7 +2467,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_47b3c2bb-1745-4765-aac5-425846911fba">
@@ -2587,7 +2587,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_543ef3fc-f035-4383-bb43-dd19233bcdbb">
@@ -2797,7 +2797,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f7ec0d8e-71a5-4055-b1dd-8e7c9dab66f5">
@@ -2917,7 +2917,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_79df2094-9e97-4ec7-b113-62833ab25b64">
@@ -2977,7 +2977,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6407903a-21f1-40b0-af56-0e8476d7de86">
@@ -3053,7 +3053,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_84cdc875-9308-4c8e-9c73-17c4b21ce02a">
@@ -3313,7 +3313,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_70ea38a1-64e6-400a-8c0f-1041089981ee">
@@ -3353,7 +3353,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d566d96e-3111-4430-a59b-cc9d52e3c899">
@@ -3473,7 +3473,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_113801d1-a6e5-46bc-afe2-290c7e7e4d5d">
@@ -3597,7 +3597,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ac6a2606-5620-4dc3-a173-86872de25476">
@@ -3673,7 +3673,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4b16a2b3-68fb-4739-a5f1-666b1445497f">
@@ -3749,7 +3749,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6942c2e4-6188-445f-a497-4c1ab0e187c1">
@@ -3825,7 +3825,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a64d5791-4342-418e-99fb-3ef9a38277f0">
@@ -3861,7 +3861,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_fcb49b64-a86e-4948-8605-d4c0a4f8902d">
@@ -3985,7 +3985,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f73db985-7756-44f4-adc5-6b59b72d91b2">
@@ -4069,7 +4069,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_db55c7c5-dd09-4439-b547-a8e0910ac2e1">
@@ -4129,7 +4129,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_353258f1-6630-4c8e-b692-bd6fdc51f3d1">
@@ -4421,7 +4421,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4ea5538a-c92c-485e-82ef-1cdb9f3ace72">
@@ -4569,7 +4569,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_04f9bf2d-a313-4438-9ba0-b9397562fce8">
@@ -4737,7 +4737,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b3240d79-617a-44a2-b842-1f51546b9ce4">
@@ -4801,7 +4801,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f02e0e3a-287b-4aed-9dd6-236afe6fb2df">
@@ -5093,7 +5093,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9f04ff19-9bd8-4094-aba0-5771abf5eed4">
@@ -5137,7 +5137,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_aeb863d3-a216-4b1c-822a-817157a9fd10">
@@ -5409,7 +5409,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6e7eaf3b-e42b-40ff-8326-48bcc674e2e3">
@@ -5509,7 +5509,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_28615b5e-741b-48bd-a555-a09060ffc9ed">
@@ -5561,7 +5561,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d3b82faf-750c-4ad3-a542-1d22a9e9121c">
@@ -5661,7 +5661,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b1ec92a7-0dbd-4db4-b22f-4ad95808f5f4">
@@ -5717,7 +5717,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a317f335-6784-414c-85df-02f035bd0ee6">
@@ -5837,7 +5837,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1ced15d3-670d-4b73-afa3-70dd2fc8ebed">
@@ -5949,7 +5949,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2fc83e3f-dc94-4fad-805a-316b0b812c4c">
@@ -6001,7 +6001,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_af475d8e-51e4-46bd-b87a-0f3a629a8ad4">
@@ -6109,7 +6109,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e20ceccc-fb61-4988-9f01-a1ae51248f1c">
@@ -6173,7 +6173,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d46dbe68-b65e-432b-a221-09d50aa41ef5">
@@ -6341,7 +6341,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e7ed35a6-f449-4b51-87c7-4eb8d57448e2">
@@ -6423,7 +6423,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_52a848f7-c1ba-470d-8e15-0c772a980af7">
@@ -6559,7 +6559,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1f96605f-cd92-4e5f-a5bc-a1cc66e1a2c0">
@@ -6811,7 +6811,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a18d9607-acae-4cd1-bd62-87976d6e3aac">
@@ -6951,7 +6951,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7bf3537a-248a-4160-a197-d581ee1cab6d">
@@ -7019,7 +7019,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_94c9d2db-ba83-4786-b8d4-a2b79af1587a">
@@ -7099,7 +7099,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9ebe4925-cee1-4e24-a5f7-2f129edaaaa6">
@@ -7207,7 +7207,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b495f49e-ddce-4080-8490-1ff926305b84">
@@ -7347,7 +7347,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ae53be9c-8a27-44e5-8097-9ee180edc8d6">
@@ -7451,7 +7451,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_13353084-d187-41e0-b7b6-e52bfa7cc96c">
@@ -7643,7 +7643,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_54675d70-319e-499f-981f-7825ae622b0f">
@@ -7759,7 +7759,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8b22400c-c0ef-46ec-85db-a081b7fdfaf5">
@@ -7807,7 +7807,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_623e3f6f-3bed-4489-bda8-a11529cfeb9e">
@@ -7931,7 +7931,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9213ead3-8cd8-4744-b260-3b3addf1b281">
@@ -8007,7 +8007,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_aa433ac9-4faf-4035-94db-ea0392ed4bd7">
@@ -8123,7 +8123,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_45caad00-37d1-4a9e-986b-a18a5a62ecf8">
@@ -8287,7 +8287,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2d835cc7-250b-4a3b-9cca-16a524181aa6">
@@ -8411,7 +8411,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_39ffd365-9fca-401d-b4b2-3b4f1932dfcf">
@@ -8651,7 +8651,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_20cc0db6-b12d-456f-a975-c913800653e2">
@@ -8769,7 +8769,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2966680c-7670-40a2-9f7d-0e4c5aee9bae">
@@ -8845,7 +8845,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_73fa6e95-cd52-4cee-b3e3-5bdcd6499655">
@@ -8889,7 +8889,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ed38777c-a20f-4169-949a-75078e25dac5">
@@ -9353,7 +9353,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6b45ca0c-07fb-4d4b-a8f3-107ae787fdf0">
@@ -9403,7 +9403,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b8ee1f84-da00-456b-bd8c-e835e831f7dd">
@@ -9555,7 +9555,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_bfa3fe08-9ed7-4bea-9f40-0587ce0cc49e">
@@ -9677,7 +9677,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ad257c81-aace-4701-869b-29fdaa81330e">
@@ -9745,7 +9745,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_620911ce-d067-4a9f-ad54-77f88df729ca">
@@ -9919,7 +9919,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7d071297-30c9-4d39-8a0e-20458ece4511">
@@ -10045,7 +10045,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_754fd29a-4ac3-4154-b21c-9b18354b087a">
@@ -10169,7 +10169,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_89b8298d-0dfd-420f-8bcd-059e7ea9cc98">
@@ -10327,7 +10327,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f249f3d1-336a-4a50-abe4-afbc4a64902c">
@@ -10431,7 +10431,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9d5693bb-e468-49d1-8f38-1128e27472b6">
@@ -10611,7 +10611,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_20bafd0b-e8d1-40db-9dd0-3c5bcfd2a828">
@@ -10715,7 +10715,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_780ce4f3-26d2-49d4-a1e6-657a4b2cbc9a">
@@ -10851,7 +10851,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1d6d208b-9fce-47f8-829f-f7d72d24f105">
@@ -11035,7 +11035,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_cc75354d-f285-4b51-b8e7-cb0046ada6c5">
@@ -11291,7 +11291,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b5417a21-302b-4cea-9a00-207c265ea706">
@@ -11403,7 +11403,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ad01f7c1-0c62-44ed-94a3-89822dd57007">
@@ -11467,7 +11467,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_86138fcb-4e72-4858-a66a-32608e724f88">
@@ -11543,7 +11543,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_51c254ad-4a74-40d3-a274-58daa6045cbe">
@@ -11647,7 +11647,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_37ed9f87-88f3-4dc2-87f0-5a2651f67c5f">
@@ -11723,7 +11723,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1c3efb6e-a7c1-4eb5-9f75-323d102988c9">
@@ -11819,7 +11819,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8617b349-2d24-4f29-959b-27006c3e2eaa">
@@ -12075,7 +12075,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8510d721-a24e-4f6d-93c9-6de8f27b609d">
@@ -12179,7 +12179,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_fdb9d232-0897-4c71-8983-7a3d8207c120">
@@ -12363,7 +12363,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_695dc5bd-4c87-469e-bc01-6c783b87cb17">
@@ -12465,7 +12465,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b6497b20-57ff-4260-9217-4990911b1a6a">
@@ -12513,7 +12513,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_15d95b1f-a440-480c-8900-edcb91b0ce81">
@@ -12761,7 +12761,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_48e43bae-8f66-40fa-b404-729a18476dd0">
@@ -12849,7 +12849,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ea93820b-f635-435e-9788-4fc498b92d8d">
@@ -12985,7 +12985,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_babd2cca-fbe5-408d-96c7-91e29f1527a4">
@@ -13081,7 +13081,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4eb4d8dc-609b-4775-9056-81fa8089fbf8">
@@ -13325,7 +13325,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6529c638-347b-462d-8d42-c5dd7ec7f377">
@@ -13373,7 +13373,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_df57f320-4a9a-4e4e-a210-4949a3197b51">
@@ -13593,7 +13593,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8e5b60ed-1910-455d-ac33-ddd184bac9d6">
@@ -13677,7 +13677,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c0292db5-a98b-4c0c-9b9f-ea6a03616537">
@@ -13775,7 +13775,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c5aa81a2-c441-449a-8df3-6fa2d5312734">
@@ -13925,7 +13925,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1a993b68-b657-4489-80b1-5375fac7a10d">
@@ -14057,7 +14057,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c34c2dce-4cf6-463a-8e94-a86f47158b8a">
@@ -14113,7 +14113,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3fe694a5-9ed6-41e4-b846-5a53430fb481">
@@ -14197,7 +14197,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6b9f39e9-2188-4bc3-ba29-d0469187e808">
@@ -14385,7 +14385,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2ceb59e4-09ec-4dec-ba29-d8cac1facc80">
@@ -14441,7 +14441,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1506f9c5-b1ce-4531-a95c-991beddf0b6f">
@@ -14493,7 +14493,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_636deabe-2c27-468e-886e-06e2cf1a881a">
@@ -14613,7 +14613,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e9dab448-92c9-4768-b8f8-46b09d85cfa6">
@@ -14697,7 +14697,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d46c9ac7-2e98-410d-8324-4d4203d7e0e8">
@@ -14885,7 +14885,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_5234d290-aa9a-4aab-b220-22511ac62e8c">
@@ -14949,7 +14949,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2cbfdcd3-db51-4516-ab40-de7fcd748bba">
@@ -15091,7 +15091,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_962d40ab-9319-40df-b6d7-7a30269c6a61">
@@ -15169,7 +15169,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_db6ec093-b665-47d7-aabb-15caca8e66dd">
@@ -15365,7 +15365,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9260975e-d81f-4c24-bc04-ae50a51b5750">
@@ -15551,7 +15551,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_eb61bab9-3b5e-4c90-95c3-8bf14d22d02b">
@@ -15615,7 +15615,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_5a1cdc5b-2e47-4187-9245-176bed857d3e">
@@ -15667,7 +15667,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_92716503-75c8-4578-8000-4e67677e2c4b">
@@ -15839,7 +15839,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_77f96668-a7c0-40a3-b5f4-5f8d745858d1">
@@ -15995,7 +15995,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_166fe7ad-1dbc-48c0-a013-3cc5e079b873">
@@ -16101,7 +16101,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_0a65483c-8c2a-4fc7-b6f0-4bc70714be48">
@@ -16249,7 +16249,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_0de7e90e-6fa7-45da-a803-8c2a29b2a0ab">
@@ -16433,7 +16433,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c7947b0b-a9ac-4d16-91f1-ed1f09d7a264">
@@ -16577,7 +16577,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f0b55fc6-7da9-46b6-bac5-23dd1eea3146">
@@ -16697,7 +16697,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e5dd479d-4134-4356-bfb0-c8912618b3b2">
@@ -16801,7 +16801,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ed7321e2-4a1e-43d0-a30d-e9cd007779ae">
@@ -16869,7 +16869,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b067b4c9-dfea-46e2-bbb6-51d9ab897915">
@@ -16925,7 +16925,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c530fcc1-ce12-4b51-bfdc-e08bb72dec33">
@@ -17143,7 +17143,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_12f690bd-5ce0-488f-8538-3d3634cf5ffe">
@@ -17195,7 +17195,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a4ca2a71-b01a-414b-bafb-3cc5bf651743">
@@ -17301,7 +17301,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_bba8f754-c9c1-44bb-86c1-f10beee953fa">
@@ -17401,7 +17401,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e2e43d1c-b6b6-4aa4-b6c6-c911e9c728eb">
@@ -17669,7 +17669,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e56fedb6-032b-4a7b-9927-0d5c64da1300">
@@ -17887,7 +17887,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_72007ac2-5ddb-46cc-b04d-1aebbb6139bc">
@@ -18131,7 +18131,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_fdc92e60-6a10-4a4a-bc4d-a60a26cbc985">
@@ -18239,7 +18239,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6e750ad4-fad4-484a-80b6-2de8b0bc7880">
@@ -18335,7 +18335,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_85a89b46-6caa-4395-9c7d-449d3418e31a">
@@ -18431,7 +18431,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_55e11ac4-3687-4b93-9790-e6d192831e2f">
@@ -18479,7 +18479,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_0a45d9c3-90c0-4938-a2c0-104f4beb036c">
@@ -18707,7 +18707,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_128e1daa-c475-448b-b51a-0b7ff78cc9ef">
@@ -18759,7 +18759,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_34eb1ab3-10cc-4b18-afcd-bd13af2d462c">
@@ -18875,7 +18875,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c2b77e3c-67a3-4460-a894-1dedc9ce9584">
@@ -18969,7 +18969,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f7ca036d-4c8b-43ed-9078-8eeb8b7fa452">
@@ -19101,7 +19101,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8d620cf8-b772-4086-994c-5f45ccc6570f">
@@ -19209,7 +19209,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f3245996-dad9-424b-9328-039a0b0ae6c2">
@@ -19333,7 +19333,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_10ce4e6a-a966-425a-b5b8-acf02f7bbdd0">
@@ -19429,7 +19429,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_10ba1e13-ac80-4ae1-8341-d770e455d60a">
@@ -19485,7 +19485,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_59acd6e5-4b7f-4b85-859a-4457fe68e593">
@@ -19569,7 +19569,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9904e33e-3226-40da-9a01-2d5d27085a51">
@@ -19613,7 +19613,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7af17056-ba16-40d3-8a72-f18ede184b01">
@@ -19801,7 +19801,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_37f99c3d-420a-4f36-b93e-18d995133c60">
@@ -19893,7 +19893,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d109e6a7-db10-409e-92b0-b2abc1fa9903">
@@ -19993,7 +19993,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7dab1ebe-0b0f-482c-adc4-40cdd5368def">
@@ -20049,7 +20049,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6e0342cc-1af8-4130-97fd-c0fa7db192a7">
@@ -20279,7 +20279,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e180d9d0-ece2-4b13-b081-5c419f6c99c9">
@@ -20515,7 +20515,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_345df45d-0ce9-4685-a582-0a421f96c36c">
@@ -20667,7 +20667,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b50e23c0-0acb-4975-8b91-6d6732510c82">
@@ -20863,7 +20863,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e3d97ac0-f68a-4bed-8620-b0227ed43b52">
@@ -20939,7 +20939,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b967515e-7d9d-4e58-98b2-9d969f4993d2">
@@ -21051,7 +21051,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a5fe49cd-b1c2-47a0-a59c-970018d62ed1">
@@ -21111,7 +21111,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e9394769-10c5-41be-a259-d2c528941631">
@@ -21159,7 +21159,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_61e1f293-fb94-4464-9930-af20bea2d2f6">
@@ -21287,7 +21287,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_IV"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_IV.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_45caf09c-e8e6-43fc-bce2-a156c104b904">
@@ -21375,7 +21375,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2019-12-10</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_IV"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_IV.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_92933ba9-a650-4d8f-a7d5-525b16745e7b">
@@ -21427,7 +21427,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_649b7c36-2792-46e1-975f-af68463079dd">
@@ -21471,7 +21471,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3ae84fc5-7f83-4246-bde3-9084a6cd2760">
@@ -21539,7 +21539,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8b085c07-a537-423c-aa18-d3f473d70f04">
@@ -21583,7 +21583,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d159149a-371c-43aa-81e9-378b17a9c625">
@@ -21651,7 +21651,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6b7a353e-dd3b-40c0-8dc7-889ce7c50c08">
@@ -21715,7 +21715,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f6e771c9-f05e-42b7-9888-c14eb75d9d5e">
@@ -21815,7 +21815,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_69f8f9d4-53f8-476e-a624-16cb2758ad9b">
@@ -21899,7 +21899,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2cd969bf-674a-4b35-8087-8757b9106b73">
@@ -22095,7 +22095,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e2b24d4f-1128-4dd6-8e39-b0a092b0bc17">
@@ -22195,7 +22195,7 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2017-03-28</publiziertAb>
         <ZustaendigeStelle REF="AMT_e3c44f45-3ecb-4b0d-b52d-7de9be7645c5"/>
-        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III"/>
+        <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_701f13e8-0878-4f88-97c9-6aea03e36fe5">
@@ -22349,7 +22349,7 @@
       <!-- LOG
                 rechtsstatus="inKraft"
             -->
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III_aufgestuft">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III.Aufgestuft.inKraft">
         <Symbol>
           <BINBLBOX>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</BINBLBOX>
         </Symbol>
@@ -22363,12 +22363,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_III_aufgestuft_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_III_aufgestuft</ArtCodeliste>
+        <ArtCode>ES_III_true_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_III.Aufgestuft.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II_aufgestuft">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II.Aufgestuft.inKraft">
         <Symbol>
           <BINBLBOX>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</BINBLBOX>
         </Symbol>
@@ -22382,12 +22382,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_II_aufgestuft_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_II_aufgestuft</ArtCodeliste>
+        <ArtCode>ES_II_true_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_II.Aufgestuft.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOilVAfkZAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADtJREFUWMPtzkENADAIBLBj/nVgE1TsQdIqaE3nnJdIS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0v/swqiAfUmgy26AAAAAElFTkSuQmCC</BINBLBOX>
         </Symbol>
@@ -22401,12 +22401,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_II_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_II</ArtCodeliste>
+        <ArtCode>ES_II_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_II.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_I">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_I.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOgb+0MRAAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADtJREFUWMPtzkENADAIBLBj/tViAFTsQdIqaE3nnJdIS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0v/s2/iAkE49EOOAAAAAElFTkSuQmCC</BINBLBOX>
         </Symbol>
@@ -22420,12 +22420,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_I_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_I</ArtCodeliste>
+        <ArtCode>ES_I_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_I.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOwQJxZQtAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADtJREFUWMPtzkENADAIBLBj/vAvB1TsQdIqaE3nnJdIS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0v/szW2AZzru5Q3AAAAAElFTkSuQmCC</BINBLBOX>
         </Symbol>
@@ -22439,12 +22439,12 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_III_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_III</ArtCodeliste>
+        <ArtCode>ES_III_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_III.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_IV">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Laermempfindlichkeitsstufen.ES_IV.inKraft">
         <Symbol>
           <BINBLBOX>iVBORw0KGgoAAAANSUhEUgAAADwAAAAoCAIAAAAt2Q6oAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9Ta0UqHewgopChOlkQFXGUKhbBQmkrtOpgcumH0KQhSXFxFFwLDn4sVh1cnHV1cBUEwQ8QF1cnRRcp8X9JoUWMB8f9eHfvcfcOEBoVpppd44CqWUY6ERdz+RUx+IoAhtGNMPwSM/VkZiELz/F1Dx9f72I8y/vcn6NPKZgM8InEs0w3LOJ14ulNS+e8TxxhZUkhPiceM+iCxI9cl11+41xyWOCZESObniOOEIulDpY7mJUNlXiKOKqoGuULOZcVzluc1UqNte7JXxgqaMsZrtMcQgKLSCIFETJq2EAFFmK0aqSYSNN+3MM/6PhT5JLJtQFGjnlUoUJy/OB/8Ltbszg54SaF4kDgxbY/RoDgLtCs2/b3sW03TwD/M3Cltf3VBjDzSXq9rUWPgPA2cHHd1uQ94HIHGHjSJUNyJD9NoVgE3s/om/JA/y3Qu+r21trH6QOQpa6WboCDQ2C0RNlrHu/u6ezt3zOt/n4AGQdygyrdFr4AAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjBR0GOzVYG5QXAAAAGXRFWHRDb21tZW50AENyZWF0ZWQgd2l0aCBHSU1QV4EOFwAAADlJREFUWMPtzkENAAAIBKDT/jnNYQofbpCAmvzTkZaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWlpaWPrTxBQE2IZR8VQAAAABJRU5ErkJggg==</BINBLBOX>
         </Symbol>
@@ -22458,8 +22458,8 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </LegendeText>
-        <ArtCode>ES_IV_inKraft</ArtCode>
-        <ArtCodeliste>http://ES_IV</ArtCodeliste>
+        <ArtCode>ES_IV_false_inKraft</ArtCode>
+        <ArtCodeliste>http://ES_IV.inKraft</ArtCodeliste>
         <Thema>ch.Laermempfindlichkeitsstufen</Thema>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag>
