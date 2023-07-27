@@ -23,14 +23,14 @@
   </HEADERSECTION>
   <DATASECTION>
     <OeREBKRMtrsfr_V2_0.Transferstruktur BID="ch.2918.Laermempfindlichkeitsstufen.OeREBKRMtrsfr_V2_0">
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ea8473b7-7334-449f-bbd4-23364ea66bb2">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e531acad-be8f-4475-a246-8a0f784e8e12">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1996-10-08</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ea8473b7-7334-449f-bbd4-23364ea66bb2">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e531acad-be8f-4475-a246-8a0f784e8e12">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -77,16 +77,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1996-10-08</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ea8473b7-7334-449f-bbd4-23364ea66bb2"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e531acad-be8f-4475-a246-8a0f784e8e12"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_4b4d8d38-5b76-4b75-a4c0-ecf437ae05c3">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_022a9178-dff0-4e8e-bf49-041c9b03472f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4b4d8d38-5b76-4b75-a4c0-ecf437ae05c3">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_022a9178-dff0-4e8e-bf49-041c9b03472f">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -169,16 +169,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4b4d8d38-5b76-4b75-a4c0-ecf437ae05c3"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_022a9178-dff0-4e8e-bf49-041c9b03472f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_36387230-7c8c-4420-8f21-82cceeae94c4">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_9ca79c48-4ce8-4d22-8646-7fc218a02364">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-12-16</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_36387230-7c8c-4420-8f21-82cceeae94c4">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_9ca79c48-4ce8-4d22-8646-7fc218a02364">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -237,16 +237,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2008-12-16</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_36387230-7c8c-4420-8f21-82cceeae94c4"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9ca79c48-4ce8-4d22-8646-7fc218a02364"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_469a1f4a-ff5e-4d67-9861-a0d844c93fab">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_1ecbfd3a-f026-4233-a6fa-6b62d535e16f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2005-04-19</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_469a1f4a-ff5e-4d67-9861-a0d844c93fab">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1ecbfd3a-f026-4233-a6fa-6b62d535e16f">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -313,16 +313,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2005-04-19</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_469a1f4a-ff5e-4d67-9861-a0d844c93fab"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1ecbfd3a-f026-4233-a6fa-6b62d535e16f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a8c7410e-ff5d-48d4-a073-6d32e66ee7d3">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_5dc8fedf-83f0-4bf5-b157-1f89720758f4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a8c7410e-ff5d-48d4-a073-6d32e66ee7d3">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_5dc8fedf-83f0-4bf5-b157-1f89720758f4">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -373,16 +373,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a8c7410e-ff5d-48d4-a073-6d32e66ee7d3"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5dc8fedf-83f0-4bf5-b157-1f89720758f4"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7597b88b-1544-4e08-b826-d260d15d8caa">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7ef15d06-71cb-4d96-bfe7-b7a68e7ad152">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7597b88b-1544-4e08-b826-d260d15d8caa">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7ef15d06-71cb-4d96-bfe7-b7a68e7ad152">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -433,16 +433,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7597b88b-1544-4e08-b826-d260d15d8caa"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7ef15d06-71cb-4d96-bfe7-b7a68e7ad152"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_99cad89a-ec6e-4564-89ef-6df63aa2b45d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_4abf4a6b-f31d-4c47-b91d-5e617eea8b7e">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2010-09-28</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_99cad89a-ec6e-4564-89ef-6df63aa2b45d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_4abf4a6b-f31d-4c47-b91d-5e617eea8b7e">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -513,16 +513,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2010-09-28</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_99cad89a-ec6e-4564-89ef-6df63aa2b45d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4abf4a6b-f31d-4c47-b91d-5e617eea8b7e"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_f95731a4-f4cc-43d1-a355-710dfca59923">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_d6a44b27-a63b-4431-9517-eab0038cb1d4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_f95731a4-f4cc-43d1-a355-710dfca59923">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d6a44b27-a63b-4431-9517-eab0038cb1d4">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -581,16 +581,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f95731a4-f4cc-43d1-a355-710dfca59923"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d6a44b27-a63b-4431-9517-eab0038cb1d4"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_044d9734-986a-44b8-920b-c1432c1d2cfa">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_3e03e31d-3f2e-4793-89c2-23403431bf2b">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_044d9734-986a-44b8-920b-c1432c1d2cfa">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3e03e31d-3f2e-4793-89c2-23403431bf2b">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -725,16 +725,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_044d9734-986a-44b8-920b-c1432c1d2cfa"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3e03e31d-3f2e-4793-89c2-23403431bf2b"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_07cd3c52-e510-451d-bd40-b95f98951057">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c97e856b-9593-4cc2-bca4-0112030ac3a4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_07cd3c52-e510-451d-bd40-b95f98951057">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_c97e856b-9593-4cc2-bca4-0112030ac3a4">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -785,16 +785,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_07cd3c52-e510-451d-bd40-b95f98951057"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c97e856b-9593-4cc2-bca4-0112030ac3a4"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_789f1e46-98bb-47e7-86c4-4c4666cfac8c">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ef90e5d4-7be0-4371-8c9e-2aeb659d5f0f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_789f1e46-98bb-47e7-86c4-4c4666cfac8c">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ef90e5d4-7be0-4371-8c9e-2aeb659d5f0f">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -973,16 +973,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_789f1e46-98bb-47e7-86c4-4c4666cfac8c"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ef90e5d4-7be0-4371-8c9e-2aeb659d5f0f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e52a2169-50c8-4f9c-8226-2815d374adba">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ba5e6241-0d7a-495c-aecf-87cfb5b96148">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e52a2169-50c8-4f9c-8226-2815d374adba">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ba5e6241-0d7a-495c-aecf-87cfb5b96148">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1139,16 +1139,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e52a2169-50c8-4f9c-8226-2815d374adba"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ba5e6241-0d7a-495c-aecf-87cfb5b96148"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_622c38b5-f454-47a5-9883-1cd9cc953084">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_2ad82d46-11dc-4f59-b8b9-f885ed8777dc">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_622c38b5-f454-47a5-9883-1cd9cc953084">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2ad82d46-11dc-4f59-b8b9-f885ed8777dc">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1215,16 +1215,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_622c38b5-f454-47a5-9883-1cd9cc953084"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2ad82d46-11dc-4f59-b8b9-f885ed8777dc"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_1182323a-3e33-487b-97ca-7c1c6268dabd">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_81af9fa5-cfdf-4fa9-9210-fa651f617dba">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_1182323a-3e33-487b-97ca-7c1c6268dabd">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_81af9fa5-cfdf-4fa9-9210-fa651f617dba">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1287,16 +1287,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1182323a-3e33-487b-97ca-7c1c6268dabd"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_81af9fa5-cfdf-4fa9-9210-fa651f617dba"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ad62b22c-99d8-4023-9035-e7910c8f862d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6c01e458-49ad-4e58-89c2-7e5c0f068dac">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_II.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_ad62b22c-99d8-4023-9035-e7910c8f862d">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6c01e458-49ad-4e58-89c2-7e5c0f068dac">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1343,16 +1343,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ad62b22c-99d8-4023-9035-e7910c8f862d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6c01e458-49ad-4e58-89c2-7e5c0f068dac"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_5d437351-13b9-41e8-b78e-e8386ff27e35">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_580ee021-794f-45a7-8d84-3a7b163b8992">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_5d437351-13b9-41e8-b78e-e8386ff27e35">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_580ee021-794f-45a7-8d84-3a7b163b8992">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1463,16 +1463,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5d437351-13b9-41e8-b78e-e8386ff27e35"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_580ee021-794f-45a7-8d84-3a7b163b8992"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_40fb7dde-2fc1-4457-9bb3-4495d9073d6c">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_3ff181cb-c428-4adc-8c01-31b19254bbca">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_40fb7dde-2fc1-4457-9bb3-4495d9073d6c">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3ff181cb-c428-4adc-8c01-31b19254bbca">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1575,16 +1575,16 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_40fb7dde-2fc1-4457-9bb3-4495d9073d6c"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3ff181cb-c428-4adc-8c01-31b19254bbca"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e9ac5bac-337b-4978-b36f-a77197092da8">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_595679ae-30ba-4bdc-86d5-e31bfd555885">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
         <Legende REF="ch.SH.Laermempfindlichkeitsstufen.ES_III.inKraft"/>
         <DarstellungsDienst REF="ch.SH.Laermempfindlichkeitsstufen.wms"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e9ac5bac-337b-4978-b36f-a77197092da8">
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_595679ae-30ba-4bdc-86d5-e31bfd555885">
         <Flaeche>
           <SURFACE>
             <BOUNDARY>
@@ -1791,9 +1791,9 @@
         </Flaeche>
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1992-08-25</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e9ac5bac-337b-4978-b36f-a77197092da8"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_595679ae-30ba-4bdc-86d5-e31bfd555885"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRM_V2_0.Amt.Amt TID="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c">
+      <OeREBKRM_V2_0.Amt.Amt TID="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6">
         <Name>
           <LocalisationCH_V1.MultilingualText>
             <LocalisedText>
@@ -1949,7 +1949,7 @@
           </OeREBKRM_V2_0.MultilingualUri>
         </VerweisWMS>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.DarstellungsDienst>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>1992-08-25</publiziertAb>
@@ -1984,9 +1984,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>1992-08-25</publiziertAb>
@@ -2021,9 +2021,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_505c784d-662c-4a5a-8111-44161318b477">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_167ff63f-ccad-4282-b221-3d67af96982b">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>1996-10-08</publiziertAb>
@@ -2058,9 +2058,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_51e4ee40-b644-444a-bf0f-f2333f2d8de1">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ba9f7cfd-5edb-48c7-ae72-052eee7266d4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>1996-10-08</publiziertAb>
@@ -2095,9 +2095,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_bcb2323b-2a73-47d5-b0e0-5fdcba2794fd">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_a9eb1a78-508d-49dd-b80c-51107e9a857c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>2008-12-16</publiziertAb>
@@ -2132,9 +2132,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_c5f03150-f031-4a66-96d5-dcd92ea7a6ea">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8ed57aa1-0ad9-43b4-8283-4910b610ac4f">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>2008-12-16</publiziertAb>
@@ -2169,9 +2169,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_83672388-2c60-47a7-876f-973456d8ac26">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_5c556df9-b1c5-48ce-8fbe-c224dc256960">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>2005-04-19</publiziertAb>
@@ -2206,9 +2206,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_4c351edb-79d9-4b58-9002-abcb7a19d0aa">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_40cb7841-2181-4006-be24-53b728807d97">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>2005-04-19</publiziertAb>
@@ -2243,9 +2243,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ce8588c4-b38b-4305-9e09-9c96c85f62c3">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_d5b4d860-2f24-47bc-b0b8-b7dd70a2d827">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>2010-09-28</publiziertAb>
@@ -2280,9 +2280,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_8da3701e-0caf-47d0-b7e6-d66d76bc972d">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_35f59b61-b6e7-44cc-a682-ea4ded2d6896">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>2010-09-28</publiziertAb>
@@ -2317,9 +2317,9 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f">
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <AuszugIndex>625</AuszugIndex>
         <publiziertAb>1992-08-25</publiziertAb>
@@ -2354,1542 +2354,1542 @@
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
         </TextImWeb>
-        <ZustaendigeStelle REF="AMT_7045ab6c-ce4d-4626-81a6-cdf180b5cc1c"/>
+        <ZustaendigeStelle REF="AMT_c87291d5-68e2-47a0-a913-26b6254fdba6"/>
       </OeREBKRM_V2_0.Dokumente.Dokument>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ea8473b7-7334-449f-bbd4-23364ea66bb2"/>
-        <Vorschrift REF="dokument_505c784d-662c-4a5a-8111-44161318b477"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e531acad-be8f-4475-a246-8a0f784e8e12"/>
+        <Vorschrift REF="dokument_167ff63f-ccad-4282-b221-3d67af96982b"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ea8473b7-7334-449f-bbd4-23364ea66bb2"/>
-        <Vorschrift REF="dokument_51e4ee40-b644-444a-bf0f-f2333f2d8de1"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e531acad-be8f-4475-a246-8a0f784e8e12"/>
+        <Vorschrift REF="dokument_ba9f7cfd-5edb-48c7-ae72-052eee7266d4"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4b4d8d38-5b76-4b75-a4c0-ecf437ae05c3"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_022a9178-dff0-4e8e-bf49-041c9b03472f"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4b4d8d38-5b76-4b75-a4c0-ecf437ae05c3"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_022a9178-dff0-4e8e-bf49-041c9b03472f"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_36387230-7c8c-4420-8f21-82cceeae94c4"/>
-        <Vorschrift REF="dokument_bcb2323b-2a73-47d5-b0e0-5fdcba2794fd"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9ca79c48-4ce8-4d22-8646-7fc218a02364"/>
+        <Vorschrift REF="dokument_a9eb1a78-508d-49dd-b80c-51107e9a857c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_36387230-7c8c-4420-8f21-82cceeae94c4"/>
-        <Vorschrift REF="dokument_c5f03150-f031-4a66-96d5-dcd92ea7a6ea"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9ca79c48-4ce8-4d22-8646-7fc218a02364"/>
+        <Vorschrift REF="dokument_8ed57aa1-0ad9-43b4-8283-4910b610ac4f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_469a1f4a-ff5e-4d67-9861-a0d844c93fab"/>
-        <Vorschrift REF="dokument_83672388-2c60-47a7-876f-973456d8ac26"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1ecbfd3a-f026-4233-a6fa-6b62d535e16f"/>
+        <Vorschrift REF="dokument_5c556df9-b1c5-48ce-8fbe-c224dc256960"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_469a1f4a-ff5e-4d67-9861-a0d844c93fab"/>
-        <Vorschrift REF="dokument_4c351edb-79d9-4b58-9002-abcb7a19d0aa"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1ecbfd3a-f026-4233-a6fa-6b62d535e16f"/>
+        <Vorschrift REF="dokument_40cb7841-2181-4006-be24-53b728807d97"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7597b88b-1544-4e08-b826-d260d15d8caa"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7ef15d06-71cb-4d96-bfe7-b7a68e7ad152"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7597b88b-1544-4e08-b826-d260d15d8caa"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7ef15d06-71cb-4d96-bfe7-b7a68e7ad152"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_99cad89a-ec6e-4564-89ef-6df63aa2b45d"/>
-        <Vorschrift REF="dokument_ce8588c4-b38b-4305-9e09-9c96c85f62c3"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4abf4a6b-f31d-4c47-b91d-5e617eea8b7e"/>
+        <Vorschrift REF="dokument_d5b4d860-2f24-47bc-b0b8-b7dd70a2d827"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_99cad89a-ec6e-4564-89ef-6df63aa2b45d"/>
-        <Vorschrift REF="dokument_8da3701e-0caf-47d0-b7e6-d66d76bc972d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4abf4a6b-f31d-4c47-b91d-5e617eea8b7e"/>
+        <Vorschrift REF="dokument_35f59b61-b6e7-44cc-a682-ea4ded2d6896"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f95731a4-f4cc-43d1-a355-710dfca59923"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d6a44b27-a63b-4431-9517-eab0038cb1d4"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f95731a4-f4cc-43d1-a355-710dfca59923"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d6a44b27-a63b-4431-9517-eab0038cb1d4"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a8c7410e-ff5d-48d4-a073-6d32e66ee7d3"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5dc8fedf-83f0-4bf5-b157-1f89720758f4"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a8c7410e-ff5d-48d4-a073-6d32e66ee7d3"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5dc8fedf-83f0-4bf5-b157-1f89720758f4"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_044d9734-986a-44b8-920b-c1432c1d2cfa"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3e03e31d-3f2e-4793-89c2-23403431bf2b"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_044d9734-986a-44b8-920b-c1432c1d2cfa"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3e03e31d-3f2e-4793-89c2-23403431bf2b"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_07cd3c52-e510-451d-bd40-b95f98951057"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c97e856b-9593-4cc2-bca4-0112030ac3a4"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_07cd3c52-e510-451d-bd40-b95f98951057"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c97e856b-9593-4cc2-bca4-0112030ac3a4"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_789f1e46-98bb-47e7-86c4-4c4666cfac8c"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ef90e5d4-7be0-4371-8c9e-2aeb659d5f0f"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_789f1e46-98bb-47e7-86c4-4c4666cfac8c"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ef90e5d4-7be0-4371-8c9e-2aeb659d5f0f"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e52a2169-50c8-4f9c-8226-2815d374adba"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ba5e6241-0d7a-495c-aecf-87cfb5b96148"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e52a2169-50c8-4f9c-8226-2815d374adba"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ba5e6241-0d7a-495c-aecf-87cfb5b96148"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_622c38b5-f454-47a5-9883-1cd9cc953084"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2ad82d46-11dc-4f59-b8b9-f885ed8777dc"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_622c38b5-f454-47a5-9883-1cd9cc953084"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2ad82d46-11dc-4f59-b8b9-f885ed8777dc"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1182323a-3e33-487b-97ca-7c1c6268dabd"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_81af9fa5-cfdf-4fa9-9210-fa651f617dba"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1182323a-3e33-487b-97ca-7c1c6268dabd"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_81af9fa5-cfdf-4fa9-9210-fa651f617dba"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ad62b22c-99d8-4023-9035-e7910c8f862d"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6c01e458-49ad-4e58-89c2-7e5c0f068dac"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ad62b22c-99d8-4023-9035-e7910c8f862d"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6c01e458-49ad-4e58-89c2-7e5c0f068dac"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5d437351-13b9-41e8-b78e-e8386ff27e35"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_580ee021-794f-45a7-8d84-3a7b163b8992"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5d437351-13b9-41e8-b78e-e8386ff27e35"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_580ee021-794f-45a7-8d84-3a7b163b8992"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_40fb7dde-2fc1-4457-9bb3-4495d9073d6c"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3ff181cb-c428-4adc-8c01-31b19254bbca"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_40fb7dde-2fc1-4457-9bb3-4495d9073d6c"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3ff181cb-c428-4adc-8c01-31b19254bbca"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e9ac5bac-337b-4978-b36f-a77197092da8"/>
-        <Vorschrift REF="dokument_ce62a797-a4b6-4ca4-9f3e-9491a20e9e8d"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_595679ae-30ba-4bdc-86d5-e31bfd555885"/>
+        <Vorschrift REF="dokument_0fd8e774-b017-4a1b-be59-3dcaad37f4c9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e9ac5bac-337b-4978-b36f-a77197092da8"/>
-        <Vorschrift REF="dokument_e5b047cf-c8b6-4b93-8f52-b7c739f27780"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_595679ae-30ba-4bdc-86d5-e31bfd555885"/>
+        <Vorschrift REF="dokument_4c218192-f9cf-4bb9-a6dd-b3c53159d31c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ea8473b7-7334-449f-bbd4-23364ea66bb2"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e531acad-be8f-4475-a246-8a0f784e8e12"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4b4d8d38-5b76-4b75-a4c0-ecf437ae05c3"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_022a9178-dff0-4e8e-bf49-041c9b03472f"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_36387230-7c8c-4420-8f21-82cceeae94c4"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9ca79c48-4ce8-4d22-8646-7fc218a02364"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_469a1f4a-ff5e-4d67-9861-a0d844c93fab"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1ecbfd3a-f026-4233-a6fa-6b62d535e16f"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7597b88b-1544-4e08-b826-d260d15d8caa"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7ef15d06-71cb-4d96-bfe7-b7a68e7ad152"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_99cad89a-ec6e-4564-89ef-6df63aa2b45d"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4abf4a6b-f31d-4c47-b91d-5e617eea8b7e"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f95731a4-f4cc-43d1-a355-710dfca59923"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d6a44b27-a63b-4431-9517-eab0038cb1d4"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a8c7410e-ff5d-48d4-a073-6d32e66ee7d3"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5dc8fedf-83f0-4bf5-b157-1f89720758f4"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_044d9734-986a-44b8-920b-c1432c1d2cfa"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3e03e31d-3f2e-4793-89c2-23403431bf2b"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_07cd3c52-e510-451d-bd40-b95f98951057"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c97e856b-9593-4cc2-bca4-0112030ac3a4"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_789f1e46-98bb-47e7-86c4-4c4666cfac8c"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ef90e5d4-7be0-4371-8c9e-2aeb659d5f0f"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e52a2169-50c8-4f9c-8226-2815d374adba"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ba5e6241-0d7a-495c-aecf-87cfb5b96148"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_622c38b5-f454-47a5-9883-1cd9cc953084"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2ad82d46-11dc-4f59-b8b9-f885ed8777dc"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1182323a-3e33-487b-97ca-7c1c6268dabd"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_81af9fa5-cfdf-4fa9-9210-fa651f617dba"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="1cc157f0-1807-4ca0-b5a3-906c4316b8c9"
+            typ_ref_id="1dae53bd-1c06-4a84-9b5d-b123cdc0f3b0"
             typ_artcode="ES_II"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ad62b22c-99d8-4023-9035-e7910c8f862d"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6c01e458-49ad-4e58-89c2-7e5c0f068dac"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5d437351-13b9-41e8-b78e-e8386ff27e35"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_580ee021-794f-45a7-8d84-3a7b163b8992"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_40fb7dde-2fc1-4457-9bb3-4495d9073d6c"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3ff181cb-c428-4adc-8c01-31b19254bbca"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="149caf47-4b63-45bf-9c47-7d0ab40c89d7"
+            typ_ref_id="619d54a9-11b6-4535-bd6f-a19651fcce92"
             typ_artcode="ES_III"
         -->
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e9ac5bac-337b-4978-b36f-a77197092da8"/>
-        <Vorschrift REF="dokument_80765a90-1dcc-4977-8d6f-7810f4416d5f"/>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_595679ae-30ba-4bdc-86d5-e31bfd555885"/>
+        <Vorschrift REF="dokument_ccabbf33-410a-4f5e-81c0-942d49aa8b59"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
       <!-- LOG
-            typ_ref_id="47902f12-5ea6-4ca7-9ba9-56e075464a21"
+            typ_ref_id="a2ccf86f-6598-4f67-880c-2ddc3e43ac03"
             typ_artcode="Keine_ES"
         -->
     </OeREBKRMtrsfr_V2_0.Transferstruktur>
