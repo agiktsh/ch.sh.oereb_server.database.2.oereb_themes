@@ -1059,7 +1059,7 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </Titel>
-        <Typ>GesetzlicheGrundlage</Typ>
+        <Typ>Rechtsvorschrift</Typ>
         <TextImWeb>
           <OeREBKRM_V2_0.MultilingualUri>
             <LocalisedText>
@@ -1099,7 +1099,7 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </Titel>
-        <Typ>GesetzlicheGrundlage</Typ>
+        <Typ>Rechtsvorschrift</Typ>
         <TextImWeb>
           <OeREBKRM_V2_0.MultilingualUri>
             <LocalisedText>
@@ -1143,7 +1143,7 @@
             </LocalisedText>
           </LocalisationCH_V1.MultilingualText>
         </Titel>
-        <Typ>GesetzlicheGrundlage</Typ>
+        <Typ>Rechtsvorschrift</Typ>
         <TextImWeb>
           <OeREBKRM_V2_0.MultilingualUri>
             <LocalisedText>
