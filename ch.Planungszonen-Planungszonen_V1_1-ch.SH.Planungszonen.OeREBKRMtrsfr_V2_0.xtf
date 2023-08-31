@@ -883,6 +883,112 @@
         <publiziertBis>2026-04-03</publiziertBis>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a0cc4c51-59c9-4a95-b774-728a9cc3e6e4"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_2ee4d72b-c109-46aa-9d40-bb43709f307c">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2023-08-22</publiziertAb>
+        <publiziertBis>2026-08-21</publiziertBis>
+        <ZustaendigeStelle REF="AMT_ch.2973.gemeindeverwaltung"/>
+        <Legende REF="ch.SH.Planungszonen.Gemeinde.inKraft"/>
+        <DarstellungsDienst REF="ch.SH.Planungszonen.wms"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_2ee4d72b-c109-46aa-9d40-bb43709f307c">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2674535.282</C1>
+                  <C2>1280365.656</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674524.248</C1>
+                  <C2>1280361.061</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674514.267</C1>
+                  <C2>1280353.744</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674506.720</C1>
+                  <C2>1280345.749</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674502.677</C1>
+                  <C2>1280338.498</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674513.486</C1>
+                  <C2>1280329.913</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674506.753</C1>
+                  <C2>1280321.998</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674519.329</C1>
+                  <C2>1280309.177</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674514.410</C1>
+                  <C2>1280303.409</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674520.673</C1>
+                  <C2>1280297.645</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674536.184</C1>
+                  <C2>1280282.013</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674540.579</C1>
+                  <C2>1280285.552</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674550.354</C1>
+                  <C2>1280290.662</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674555.818</C1>
+                  <C2>1280292.724</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674570.182</C1>
+                  <C2>1280296.796</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674556.962</C1>
+                  <C2>1280313.214</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674567.763</C1>
+                  <C2>1280322.399</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674581.024</C1>
+                  <C2>1280334.965</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674565.653</C1>
+                  <C2>1280346.790</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674542.826</C1>
+                  <C2>1280363.938</C2>
+                </COORD>
+                <COORD>
+                  <C1>2674535.282</C1>
+                  <C2>1280365.656</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2023-08-22</publiziertAb>
+        <publiziertBis>2026-08-21</publiziertBis>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2ee4d72b-c109-46aa-9d40-bb43709f307c"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRM_V2_0.Amt.Amt TID="AMT_ch.2951.gemeindeverwaltung">
         <Name>
           <LocalisationCH_V1.MultilingualText>
@@ -1159,6 +1265,46 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a0cc4c51-59c9-4a95-b774-728a9cc3e6e4"/>
         <Vorschrift REF="dokument_ch.2973.grb.GR-00043"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2973.grb.GR-00103">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>10</AuszugIndex>
+        <publiziertAb>2023-08-22</publiziertAb>
+        <OffizielleNr>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Text>GR-00103</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </OffizielleNr>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Planungszone "Friedau"</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/13488_TRA_014_EN_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_ch.2973.gemeindeverwaltung"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2ee4d72b-c109-46aa-9d40-bb43709f307c"/>
+        <Vorschrift REF="dokument_ch.2973.grb.GR-00103"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
     </OeREBKRMtrsfr_V2_0.Transferstruktur>
   </DATASECTION>
