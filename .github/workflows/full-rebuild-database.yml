@@ -19,7 +19,7 @@ jobs:
         shell: bash
     env:
       CONTAINERNAME: database
-      IMAGE: ghcr.io/openoereb/ch.sh.oereb_base:latest
+      IMAGE: ghcr.io/agiktsh/ch.sh.oereb_server.database.1.cantonal_base:latest
       SCHEMA: live
       POSTGRES_DB: oereb
       PG_GRETL_PWD: ${{ secrets.PG_GRETL_PWD }}
