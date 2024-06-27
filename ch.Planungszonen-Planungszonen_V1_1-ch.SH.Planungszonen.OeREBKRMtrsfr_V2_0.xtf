@@ -777,6 +777,124 @@
         <publiziertBis>2025-03-13</publiziertBis>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2c24fa1d-186f-4045-95a1-82c3a0a529ca"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung__acc865a9-c5c3-42b9-802d-8d749d1cd8d4">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2024-06-21</publiziertAb>
+        <publiziertBis>2029-06-20</publiziertBis>
+        <ZustaendigeStelle REF="AMT_ch.2964.gemeindeverwaltung"/>
+        <Legende REF="ch.SH.Planungszonen.Gemeinde.inKraft"/>
+        <DarstellungsDienst REF="ch.SH.Planungszonen.wms"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie__acc865a9-c5c3-42b9-802d-8d749d1cd8d4">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2706587.253</C1>
+                  <C2>1280051.361</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706617.375</C1>
+                  <C2>1280027.844</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706625.459</C1>
+                  <C2>1280021.534</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706649.680</C1>
+                  <C2>1279998.685</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706649.251</C1>
+                  <C2>1279997.457</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706643.127</C1>
+                  <C2>1279997.082</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706630.386</C1>
+                  <C2>1279992.138</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706632.620</C1>
+                  <C2>1279988.896</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706612.736</C1>
+                  <C2>1279975.413</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706580.038</C1>
+                  <C2>1279953.967</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706569.351</C1>
+                  <C2>1279947.054</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706565.306</C1>
+                  <C2>1279943.655</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706565.161</C1>
+                  <C2>1279939.402</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706559.171</C1>
+                  <C2>1279948.100</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706554.369</C1>
+                  <C2>1279956.236</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706546.008</C1>
+                  <C2>1279968.423</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706541.997</C1>
+                  <C2>1279972.622</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706539.658</C1>
+                  <C2>1279975.823</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706539.641</C1>
+                  <C2>1279981.119</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706541.524</C1>
+                  <C2>1279987.399</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706565.342</C1>
+                  <C2>1280030.017</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706570.167</C1>
+                  <C2>1280035.300</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706574.253</C1>
+                  <C2>1280039.774</C2>
+                </COORD>
+                <COORD>
+                  <C1>2706587.253</C1>
+                  <C2>1280051.361</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2024-06-21</publiziertAb>
+        <publiziertBis>2029-06-20</publiziertBis>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung__acc865a9-c5c3-42b9-802d-8d749d1cd8d4"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a0cc4c51-59c9-4a95-b774-728a9cc3e6e4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2023-04-04</publiziertAb>
@@ -1043,6 +1161,33 @@
         <PLZ>8235</PLZ>
         <Ort>Lohn</Ort>
       </OeREBKRM_V2_0.Amt.Amt>
+      <OeREBKRM_V2_0.Amt.Amt TID="AMT_ch.2964.gemeindeverwaltung">
+        <Name>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Stadt Stein am Rhein</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Name>
+        <AmtImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://www.steinamrhein.ch/</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </AmtImWeb>
+        <Zeile1>Stadt Stein am Rhein</Zeile1>
+        <Strasse>Rathausplatz</Strasse>
+        <Hausnr>1</Hausnr>
+        <PLZ>8260</PLZ>
+        <Ort>Stein am Rhein</Ort>
+      </OeREBKRM_V2_0.Amt.Amt>
       <OeREBKRM_V2_0.Amt.Amt TID="AMT_ch.2973.gemeindeverwaltung">
         <Name>
           <LocalisationCH_V1.MultilingualText>
@@ -1225,6 +1370,37 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2c24fa1d-186f-4045-95a1-82c3a0a529ca"/>
         <Vorschrift REF="dokument_ch.2917.grb.GR-00029"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2964.grb.GR-00000">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>10</AuszugIndex>
+        <publiziertAb>2024-06-21</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Planungszone "Heerewis"</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/13562_SAR_023_EN_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_ch.2964.gemeindeverwaltung"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung__acc865a9-c5c3-42b9-802d-8d749d1cd8d4"/>
+        <Vorschrift REF="dokument_ch.2964.grb.GR-00000"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2973.grb.GR-00043">
         <Rechtsstatus>inKraft</Rechtsstatus>
