@@ -28295,97 +28295,6 @@
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6815"/>
         <Vorschrift REF="dokument_6815"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6816">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-01-29</publiziertAb>
-        <DarstellungsDienst REF="ch.BelasteteStandorte.oereb.darstellungsdienst_1"/>
-        <Legende REF="Legende_StatusAltlV2_Flaeche"/>
-        <ZustaendigeStelle REF="AMT_6662"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6816">
-        <Flaeche>
-          <SURFACE>
-            <BOUNDARY>
-              <POLYLINE>
-                <COORD>
-                  <C1>2702199.025</C1>
-                  <C2>1285541.196</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702209.708</C1>
-                  <C2>1285534.996</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702204.238</C1>
-                  <C2>1285527.599</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702199.434</C1>
-                  <C2>1285521.401</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702189.744</C1>
-                  <C2>1285529.196</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702199.025</C1>
-                  <C2>1285541.196</C2>
-                </COORD>
-              </POLYLINE>
-            </BOUNDARY>
-          </SURFACE>
-        </Flaeche>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-01-29</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6816"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6816">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2004-01-29</publiziertAb>
-        <Titel>
-          <LocalisationCH_V1.MultilingualText>
-            <LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>de</Language>
-                <Text>8.1</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>fr</Language>
-                <Text>8.1</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>it</Language>
-                <Text>8.1</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>rm</Language>
-                <Text>8.1</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>en</Language>
-                <Text>8.1</Text>
-              </LocalisationCH_V1.LocalisedText>
-            </LocalisedText>
-          </LocalisationCH_V1.MultilingualText>
-        </Titel>
-        <Typ>Rechtsvorschrift</Typ>
-        <AuszugIndex>1</AuszugIndex>
-        <TextImWeb>
-          <OeREBKRM_V2_0.MultilingualUri>
-            <LocalisedText>
-              <OeREBKRM_V2_0.LocalisedUri>
-                <Language>de</Language>
-                <Text>https://data.geo.sh.ch/oereb/8.1-491.pdf</Text>
-              </OeREBKRM_V2_0.LocalisedUri>
-            </LocalisedText>
-          </OeREBKRM_V2_0.MultilingualUri>
-        </TextImWeb>
-        <ZustaendigeStelle REF="AMT_6662"/>
-      </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6816"/>
-        <Vorschrift REF="dokument_6816"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6817">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2005-10-11</publiziertAb>
@@ -46032,93 +45941,6 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6922"/>
         <Vorschrift REF="dokument_6922"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6923">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2020-09-02</publiziertAb>
-        <DarstellungsDienst REF="ch.BelasteteStandorte.oereb.darstellungsdienst_1"/>
-        <Legende REF="Legende_StatusAltlV2_Flaeche"/>
-        <ZustaendigeStelle REF="AMT_6662"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6923">
-        <Flaeche>
-          <SURFACE>
-            <BOUNDARY>
-              <POLYLINE>
-                <COORD>
-                  <C1>2702201.319</C1>
-                  <C2>1285544.223</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702204.884</C1>
-                  <C2>1285548.806</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702215.152</C1>
-                  <C2>1285542.558</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702211.670</C1>
-                  <C2>1285537.988</C2>
-                </COORD>
-                <COORD>
-                  <C1>2702201.319</C1>
-                  <C2>1285544.223</C2>
-                </COORD>
-              </POLYLINE>
-            </BOUNDARY>
-          </SURFACE>
-        </Flaeche>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2020-09-02</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6923"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6923">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2020-09-02</publiziertAb>
-        <Titel>
-          <LocalisationCH_V1.MultilingualText>
-            <LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>de</Language>
-                <Text>8.2</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>fr</Language>
-                <Text>8.2</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>it</Language>
-                <Text>8.2</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>rm</Language>
-                <Text>8.2</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>en</Language>
-                <Text>8.2</Text>
-              </LocalisationCH_V1.LocalisedText>
-            </LocalisedText>
-          </LocalisationCH_V1.MultilingualText>
-        </Titel>
-        <Typ>Rechtsvorschrift</Typ>
-        <AuszugIndex>1</AuszugIndex>
-        <TextImWeb>
-          <OeREBKRM_V2_0.MultilingualUri>
-            <LocalisedText>
-              <OeREBKRM_V2_0.LocalisedUri>
-                <Language>de</Language>
-                <Text>https://data.geo.sh.ch/oereb/8.2-497.pdf</Text>
-              </OeREBKRM_V2_0.LocalisedUri>
-            </LocalisedText>
-          </OeREBKRM_V2_0.MultilingualUri>
-        </TextImWeb>
-        <ZustaendigeStelle REF="AMT_6662"/>
-      </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6923"/>
-        <Vorschrift REF="dokument_6923"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6924">
         <Rechtsstatus>inKraft</Rechtsstatus>
@@ -75920,6 +75742,97 @@
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7031"/>
         <Vorschrift REF="dokument_7031"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6923">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2020-09-02</publiziertAb>
+        <DarstellungsDienst REF="ch.BelasteteStandorte.oereb.darstellungsdienst_1"/>
+        <Legende REF="Legende_StatusAltlV3_Flaeche"/>
+        <ZustaendigeStelle REF="AMT_6662"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6923">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2702203.157</C1>
+                  <C2>1285542.979</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702205.224</C1>
+                  <C2>1285546.407</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702215.582</C1>
+                  <C2>1285539.951</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702213.560</C1>
+                  <C2>1285536.936</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702211.670</C1>
+                  <C2>1285537.988</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702203.157</C1>
+                  <C2>1285542.979</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2020-09-02</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6923"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6923">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2020-09-02</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>8.2</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>fr</Language>
+                <Text>8.2</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>it</Language>
+                <Text>8.2</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>rm</Language>
+                <Text>8.2</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>en</Language>
+                <Text>8.2</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <AuszugIndex>1</AuszugIndex>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/8.2-497.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_6662"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6923"/>
+        <Vorschrift REF="dokument_6923"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7033">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2024-04-19</publiziertAb>
@@ -76018,6 +75931,123 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7033"/>
         <Vorschrift REF="dokument_7033"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6816">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-01-29</publiziertAb>
+        <DarstellungsDienst REF="ch.BelasteteStandorte.oereb.darstellungsdienst_1"/>
+        <Legende REF="Legende_StatusAltlV3_Flaeche"/>
+        <ZustaendigeStelle REF="AMT_6662"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6816">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2702199.025</C1>
+                  <C2>1285541.196</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702209.708</C1>
+                  <C2>1285534.996</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702204.238</C1>
+                  <C2>1285527.599</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702196.676</C1>
+                  <C2>1285517.781</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702186.992</C1>
+                  <C2>1285525.691</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702199.025</C1>
+                  <C2>1285541.196</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2702170.143</C1>
+                  <C2>1285487.914</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702173.761</C1>
+                  <C2>1285492.596</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702168.156</C1>
+                  <C2>1285496.853</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702164.751</C1>
+                  <C2>1285492.312</C2>
+                </COORD>
+                <COORD>
+                  <C1>2702170.143</C1>
+                  <C2>1285487.914</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-01-29</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6816"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6816">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2004-01-29</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>8.1</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>fr</Language>
+                <Text>8.1</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>it</Language>
+                <Text>8.1</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>rm</Language>
+                <Text>8.1</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>en</Language>
+                <Text>8.1</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <AuszugIndex>1</AuszugIndex>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/8.1-491.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_6662"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6816"/>
+        <Vorschrift REF="dokument_6816"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7015">
         <Rechtsstatus>inKraft</Rechtsstatus>
