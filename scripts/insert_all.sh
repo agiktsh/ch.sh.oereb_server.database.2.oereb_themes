@@ -1,7 +1,7 @@
 #!/bin/bash
 set -Eeuo pipefail
 
-ili2pg_executable=$(find /tmp/ili2pg -iname 'ili2pg*.jar')
+ili2pg_executable=$(find ./ -iname 'ili2pg*.jar')
 # Das wird später benutzt damit alle Dateien integriert werden
 files=$(find . -type f -name "*.xtf")
 # uncomment this to directly try a file
@@ -29,6 +29,6 @@ for file in ${files[*]}; do
     --disableValidation \
     --models "OeREBKRMtrsfr_V2_0" \
     --verbose \
-    --modeldir http://models.interlis.ch/ \
+    --modeldir scripts/ili2pg/ilimodels \
     "$file"
 done

@@ -23,7 +23,6 @@ jobs:
       SCHEMA: live
       POSTGRES_DB: oereb
       PG_GRETL_PWD: ${{ secrets.PG_GRETL_PWD }}
-      ILI2PG_VERSION: 4.9.1
 
     steps:
       - uses: actions/checkout@v3
@@ -33,9 +32,6 @@ jobs:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: Install ili2db
-        run: |
-          ./scripts/install_ili2pg.sh
 
       - name: Start database structure
         run: |
