@@ -19163,86 +19163,6 @@
         <publiziertAb>2015-01-30</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b97ec8c2-4a97-4b7e-8b8e-5c83b63e91f6"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_d70eff25-e1ad-42f1-98d5-4b02136310c7">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2016-08-03</publiziertAb>
-        <ZustaendigeStelle REF="AMT_09aae695-b0d0-44cd-9e23-3ddfc43cafb5"/>
-        <Legende REF="ch.SH.StatischeWaldgrenzen.in_Bauzonen"/>
-        <DarstellungsDienst REF="ch.SH.StatischeWaldgrenzen.wms"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d70eff25-e1ad-42f1-98d5-4b02136310c7">
-        <Linie>
-          <POLYLINE>
-            <COORD>
-              <C1>2688737.508</C1>
-              <C2>1282973.653</C2>
-            </COORD>
-            <COORD>
-              <C1>2688741.833</C1>
-              <C2>1282949.256</C2>
-            </COORD>
-            <COORD>
-              <C1>2688751.193</C1>
-              <C2>1282936.685</C2>
-            </COORD>
-            <COORD>
-              <C1>2688744.402</C1>
-              <C2>1282930.910</C2>
-            </COORD>
-            <COORD>
-              <C1>2688731.604</C1>
-              <C2>1282884.489</C2>
-            </COORD>
-            <COORD>
-              <C1>2688739.997</C1>
-              <C2>1282874.441</C2>
-            </COORD>
-            <COORD>
-              <C1>2688759.864</C1>
-              <C2>1282867.883</C2>
-            </COORD>
-            <COORD>
-              <C1>2688763.964</C1>
-              <C2>1282877.806</C2>
-            </COORD>
-            <COORD>
-              <C1>2688786.299</C1>
-              <C2>1282904.480</C2>
-            </COORD>
-            <COORD>
-              <C1>2688795.146</C1>
-              <C2>1282916.680</C2>
-            </COORD>
-            <COORD>
-              <C1>2688782.707</C1>
-              <C2>1282929.614</C2>
-            </COORD>
-            <COORD>
-              <C1>2688779.000</C1>
-              <C2>1282944.385</C2>
-            </COORD>
-            <COORD>
-              <C1>2688782.146</C1>
-              <C2>1282964.680</C2>
-            </COORD>
-            <COORD>
-              <C1>2688777.146</C1>
-              <C2>1282971.680</C2>
-            </COORD>
-            <COORD>
-              <C1>2688749.043</C1>
-              <C2>1282979.151</C2>
-            </COORD>
-            <COORD>
-              <C1>2688737.508</C1>
-              <C2>1282973.653</C2>
-            </COORD>
-          </POLYLINE>
-        </Linie>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2016-08-03</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d70eff25-e1ad-42f1-98d5-4b02136310c7"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_9d64fc17-005f-404f-9d57-bdb7ef1b73a4">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2015-01-30</publiziertAb>
@@ -42635,6 +42555,310 @@
         <publiziertAb>2024-03-26</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_9f3316f5-e606-4eca-bb9c-16cbafe9e992"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_d70eff25-e1ad-42f1-98d5-4b02136310c7">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2016-08-03</publiziertAb>
+        <ZustaendigeStelle REF="AMT_09aae695-b0d0-44cd-9e23-3ddfc43cafb5"/>
+        <Legende REF="ch.SH.StatischeWaldgrenzen.in_Bauzonen"/>
+        <DarstellungsDienst REF="ch.SH.StatischeWaldgrenzen.wms"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_d70eff25-e1ad-42f1-98d5-4b02136310c7">
+        <Linie>
+          <POLYLINE>
+            <COORD>
+              <C1>2688777.146</C1>
+              <C2>1282971.680</C2>
+            </COORD>
+            <COORD>
+              <C1>2688749.043</C1>
+              <C2>1282979.151</C2>
+            </COORD>
+            <COORD>
+              <C1>2688737.508</C1>
+              <C2>1282973.653</C2>
+            </COORD>
+            <COORD>
+              <C1>2688741.833</C1>
+              <C2>1282949.256</C2>
+            </COORD>
+            <COORD>
+              <C1>2688751.193</C1>
+              <C2>1282936.685</C2>
+            </COORD>
+            <COORD>
+              <C1>2688744.402</C1>
+              <C2>1282930.910</C2>
+            </COORD>
+            <COORD>
+              <C1>2688731.604</C1>
+              <C2>1282884.489</C2>
+            </COORD>
+            <COORD>
+              <C1>2688739.997</C1>
+              <C2>1282874.441</C2>
+            </COORD>
+            <COORD>
+              <C1>2688759.864</C1>
+              <C2>1282867.883</C2>
+            </COORD>
+            <COORD>
+              <C1>2688763.964</C1>
+              <C2>1282877.806</C2>
+            </COORD>
+            <COORD>
+              <C1>2688786.299</C1>
+              <C2>1282904.480</C2>
+            </COORD>
+            <COORD>
+              <C1>2688795.146</C1>
+              <C2>1282916.680</C2>
+            </COORD>
+          </POLYLINE>
+        </Linie>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2016-08-03</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d70eff25-e1ad-42f1-98d5-4b02136310c7"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_59462a12-9666-478c-8661-df52a38564da">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2025-06-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_09aae695-b0d0-44cd-9e23-3ddfc43cafb5"/>
+        <Legende REF="ch.SH.StatischeWaldgrenzen.in_Bauzonen"/>
+        <DarstellungsDienst REF="ch.SH.StatischeWaldgrenzen.wms"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_59462a12-9666-478c-8661-df52a38564da">
+        <Linie>
+          <POLYLINE>
+            <COORD>
+              <C1>2688795.146</C1>
+              <C2>1282916.680</C2>
+            </COORD>
+            <COORD>
+              <C1>2688799.428</C1>
+              <C2>1282924.943</C2>
+            </COORD>
+            <COORD>
+              <C1>2688803.096</C1>
+              <C2>1282920.978</C2>
+            </COORD>
+            <COORD>
+              <C1>2688819.153</C1>
+              <C2>1282912.256</C2>
+            </COORD>
+            <COORD>
+              <C1>2688848.295</C1>
+              <C2>1282871.418</C2>
+            </COORD>
+            <COORD>
+              <C1>2688851.761</C1>
+              <C2>1282872.167</C2>
+            </COORD>
+            <COORD>
+              <C1>2688851.154</C1>
+              <C2>1282875.488</C2>
+            </COORD>
+            <COORD>
+              <C1>2688850.733</C1>
+              <C2>1282877.842</C2>
+            </COORD>
+            <COORD>
+              <C1>2688850.225</C1>
+              <C2>1282880.493</C2>
+            </COORD>
+            <COORD>
+              <C1>2688849.655</C1>
+              <C2>1282882.835</C2>
+            </COORD>
+            <COORD>
+              <C1>2688848.849</C1>
+              <C2>1282887.779</C2>
+            </COORD>
+            <COORD>
+              <C1>2688848.230</C1>
+              <C2>1282890.852</C2>
+            </COORD>
+            <COORD>
+              <C1>2688845.962</C1>
+              <C2>1282901.718</C2>
+            </COORD>
+            <COORD>
+              <C1>2688843.069</C1>
+              <C2>1282901.866</C2>
+            </COORD>
+            <COORD>
+              <C1>2688842.414</C1>
+              <C2>1282903.587</C2>
+            </COORD>
+            <COORD>
+              <C1>2688841.455</C1>
+              <C2>1282903.114</C2>
+            </COORD>
+            <COORD>
+              <C1>2688840.482</C1>
+              <C2>1282905.122</C2>
+            </COORD>
+            <COORD>
+              <C1>2688839.482</C1>
+              <C2>1282907.116</C2>
+            </COORD>
+            <COORD>
+              <C1>2688838.341</C1>
+              <C2>1282909.310</C2>
+            </COORD>
+            <COORD>
+              <C1>2688837.167</C1>
+              <C2>1282911.487</C2>
+            </COORD>
+            <COORD>
+              <C1>2688835.959</C1>
+              <C2>1282913.645</C2>
+            </COORD>
+            <COORD>
+              <C1>2688834.719</C1>
+              <C2>1282915.785</C2>
+            </COORD>
+            <COORD>
+              <C1>2688816.588</C1>
+              <C2>1282945.238</C2>
+            </COORD>
+            <COORD>
+              <C1>2688814.665</C1>
+              <C2>1282948.206</C2>
+            </COORD>
+            <COORD>
+              <C1>2688810.527</C1>
+              <C2>1282949.222</C2>
+            </COORD>
+            <COORD>
+              <C1>2688803.861</C1>
+              <C2>1282950.733</C2>
+            </COORD>
+            <COORD>
+              <C1>2688802.423</C1>
+              <C2>1282955.912</C2>
+            </COORD>
+            <COORD>
+              <C1>2688800.491</C1>
+              <C2>1282962.256</C2>
+            </COORD>
+            <COORD>
+              <C1>2688798.657</C1>
+              <C2>1282968.401</C2>
+            </COORD>
+            <COORD>
+              <C1>2688793.865</C1>
+              <C2>1282983.217</C2>
+            </COORD>
+            <COORD>
+              <C1>2688793.295</C1>
+              <C2>1282985.110</C2>
+            </COORD>
+            <COORD>
+              <C1>2688791.362</C1>
+              <C2>1282984.862</C2>
+            </COORD>
+            <COORD>
+              <C1>2688790.718</C1>
+              <C2>1282988.579</C2>
+            </COORD>
+            <COORD>
+              <C1>2688789.974</C1>
+              <C2>1282992.544</C2>
+            </COORD>
+            <COORD>
+              <C1>2688789.281</C1>
+              <C2>1282997.847</C2>
+            </COORD>
+            <COORD>
+              <C1>2688787.249</C1>
+              <C2>1283009.989</C2>
+            </COORD>
+            <COORD>
+              <C1>2688787.149</C1>
+              <C2>1283011.129</C2>
+            </COORD>
+            <COORD>
+              <C1>2688784.473</C1>
+              <C2>1283008.106</C2>
+            </COORD>
+            <COORD>
+              <C1>2688781.500</C1>
+              <C2>1283003.596</C2>
+            </COORD>
+            <COORD>
+              <C1>2688778.750</C1>
+              <C2>1282999.407</C2>
+            </COORD>
+            <COORD>
+              <C1>2688776.804</C1>
+              <C2>1282996.459</C2>
+            </COORD>
+            <COORD>
+              <C1>2688775.912</C1>
+              <C2>1282991.751</C2>
+            </COORD>
+            <COORD>
+              <C1>2688776.371</C1>
+              <C2>1282985.973</C2>
+            </COORD>
+            <COORD>
+              <C1>2688777.529</C1>
+              <C2>1282980.940</C2>
+            </COORD>
+            <COORD>
+              <C1>2688777.146</C1>
+              <C2>1282971.680</C2>
+            </COORD>
+          </POLYLINE>
+        </Linie>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2025-06-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_59462a12-9666-478c-8661-df52a38564da"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_8d9aab29-6110-48b2-bad9-8ae233397ba8">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2025-06-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_09aae695-b0d0-44cd-9e23-3ddfc43cafb5"/>
+        <Legende REF="ch.SH.StatischeWaldgrenzen.in_Bauzonen"/>
+        <DarstellungsDienst REF="ch.SH.StatischeWaldgrenzen.wms"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_8d9aab29-6110-48b2-bad9-8ae233397ba8">
+        <Linie>
+          <POLYLINE>
+            <COORD>
+              <C1>2686820.562</C1>
+              <C2>1281530.812</C2>
+            </COORD>
+            <COORD>
+              <C1>2686818.735</C1>
+              <C2>1281529.998</C2>
+            </COORD>
+            <COORD>
+              <C1>2686796.593</C1>
+              <C2>1281522.305</C2>
+            </COORD>
+            <COORD>
+              <C1>2686858.315</C1>
+              <C2>1281384.163</C2>
+            </COORD>
+            <COORD>
+              <C1>2686878.247</C1>
+              <C2>1281396.495</C2>
+            </COORD>
+            <COORD>
+              <C1>2686880.074</C1>
+              <C2>1281397.309</C2>
+            </COORD>
+            <COORD>
+              <C1>2686820.562</C1>
+              <C2>1281530.812</C2>
+            </COORD>
+          </POLYLINE>
+        </Linie>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2025-06-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8d9aab29-6110-48b2-bad9-8ae233397ba8"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRM_V2_0.Amt.Amt TID="AMT_09aae695-b0d0-44cd-9e23-3ddfc43cafb5">
         <Name>
           <LocalisationCH_V1.MultilingualText>
@@ -43084,15 +43308,15 @@
         <Vorschrift REF="dokument_6fb006da-4a7a-4548-a83e-932a54141948"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d70eff25-e1ad-42f1-98d5-4b02136310c7"/>
-        <Vorschrift REF="dokument_6fb006da-4a7a-4548-a83e-932a54141948"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d889c882-60ef-45cb-88ad-2bc7d58e1a8c"/>
         <Vorschrift REF="dokument_6fb006da-4a7a-4548-a83e-932a54141948"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_fa7af89c-a805-4ba2-8260-437709993359"/>
+        <Vorschrift REF="dokument_6fb006da-4a7a-4548-a83e-932a54141948"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d70eff25-e1ad-42f1-98d5-4b02136310c7"/>
         <Vorschrift REF="dokument_6fb006da-4a7a-4548-a83e-932a54141948"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_3b011b25-bfc0-4789-9c86-951e9e8ad9ce">
@@ -45088,6 +45312,41 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_f24f0bae-e15f-4cb9-8b69-65160a8009c7"/>
         <Vorschrift REF="dokument_ef2ef093-44a1-49de-a596-9bb101372d3a"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_7225580f-0fe6-483c-9b8c-3a4ddcc24af2">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <AuszugIndex>710</AuszugIndex>
+        <publiziertAb>2025-06-23</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Entscheid Waldfeststellung Neuhausen am Rheinfall vom 23.06.2025</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/13608_NAR_829_EN_1.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_09aae695-b0d0-44cd-9e23-3ddfc43cafb5"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_59462a12-9666-478c-8661-df52a38564da"/>
+        <Vorschrift REF="dokument_7225580f-0fe6-483c-9b8c-3a4ddcc24af2"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_8d9aab29-6110-48b2-bad9-8ae233397ba8"/>
+        <Vorschrift REF="dokument_7225580f-0fe6-483c-9b8c-3a4ddcc24af2"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
     </OeREBKRMtrsfr_V2_0.Transferstruktur>
   </DATASECTION>
