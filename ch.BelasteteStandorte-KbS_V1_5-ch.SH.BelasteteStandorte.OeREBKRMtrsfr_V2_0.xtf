@@ -19164,93 +19164,6 @@
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6770"/>
         <Vorschrift REF="dokument_6770"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6771">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2003-06-12</publiziertAb>
-        <DarstellungsDienst REF="ch.BelasteteStandorte.oereb.darstellungsdienst_1"/>
-        <Legende REF="Legende_StatusAltlV4_Flaeche"/>
-        <ZustaendigeStelle REF="AMT_6662"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6771">
-        <Flaeche>
-          <SURFACE>
-            <BOUNDARY>
-              <POLYLINE>
-                <COORD>
-                  <C1>2689411.785</C1>
-                  <C2>1284178.932</C2>
-                </COORD>
-                <COORD>
-                  <C1>2689435.918</C1>
-                  <C2>1284182.228</C2>
-                </COORD>
-                <COORD>
-                  <C1>2689446.077</C1>
-                  <C2>1284110.108</C2>
-                </COORD>
-                <COORD>
-                  <C1>2689421.816</C1>
-                  <C2>1284106.718</C2>
-                </COORD>
-                <COORD>
-                  <C1>2689411.785</C1>
-                  <C2>1284178.932</C2>
-                </COORD>
-              </POLYLINE>
-            </BOUNDARY>
-          </SURFACE>
-        </Flaeche>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2003-06-12</publiziertAb>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6771"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6771">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2003-06-12</publiziertAb>
-        <Titel>
-          <LocalisationCH_V1.MultilingualText>
-            <LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>de</Language>
-                <Text>46.02</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>fr</Language>
-                <Text>46.02</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>it</Language>
-                <Text>46.02</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>rm</Language>
-                <Text>46.02</Text>
-              </LocalisationCH_V1.LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>en</Language>
-                <Text>46.02</Text>
-              </LocalisationCH_V1.LocalisedText>
-            </LocalisedText>
-          </LocalisationCH_V1.MultilingualText>
-        </Titel>
-        <Typ>Rechtsvorschrift</Typ>
-        <AuszugIndex>1</AuszugIndex>
-        <TextImWeb>
-          <OeREBKRM_V2_0.MultilingualUri>
-            <LocalisedText>
-              <OeREBKRM_V2_0.LocalisedUri>
-                <Language>de</Language>
-                <Text>https://data.geo.sh.ch/oereb/46.02-11633.pdf</Text>
-              </OeREBKRM_V2_0.LocalisedUri>
-            </LocalisedText>
-          </OeREBKRM_V2_0.MultilingualUri>
-        </TextImWeb>
-        <ZustaendigeStelle REF="AMT_6662"/>
-      </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6771"/>
-        <Vorschrift REF="dokument_6771"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6772">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2006-01-06</publiziertAb>
@@ -75933,6 +75846,93 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6973"/>
         <Vorschrift REF="dokument_6973"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6771">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2003-06-12</publiziertAb>
+        <DarstellungsDienst REF="ch.BelasteteStandorte.oereb.darstellungsdienst_1"/>
+        <Legende REF="Legende_StatusAltlV3_Flaeche"/>
+        <ZustaendigeStelle REF="AMT_6662"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6771">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2689411.785</C1>
+                  <C2>1284178.932</C2>
+                </COORD>
+                <COORD>
+                  <C1>2689435.918</C1>
+                  <C2>1284182.228</C2>
+                </COORD>
+                <COORD>
+                  <C1>2689446.077</C1>
+                  <C2>1284110.108</C2>
+                </COORD>
+                <COORD>
+                  <C1>2689421.816</C1>
+                  <C2>1284106.718</C2>
+                </COORD>
+                <COORD>
+                  <C1>2689411.785</C1>
+                  <C2>1284178.932</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2003-06-12</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6771"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_6771">
+        <Rechtsstatus>inKraft</Rechtsstatus>
+        <publiziertAb>2003-06-12</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>46.02</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>fr</Language>
+                <Text>46.02</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>it</Language>
+                <Text>46.02</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>rm</Language>
+                <Text>46.02</Text>
+              </LocalisationCH_V1.LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>en</Language>
+                <Text>46.02</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Rechtsvorschrift</Typ>
+        <AuszugIndex>1</AuszugIndex>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/12781_46.02-11633.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_6662"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6771"/>
+        <Vorschrift REF="dokument_6771"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7013">
         <Rechtsstatus>inKraft</Rechtsstatus>
