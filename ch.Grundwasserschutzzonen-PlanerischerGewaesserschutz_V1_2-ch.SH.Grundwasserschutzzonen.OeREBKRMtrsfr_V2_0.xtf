@@ -4317,7 +4317,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_5e97d641-4684-47b1-a66c-3b5873882f0a">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -4388,7 +4388,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5e97d641-4684-47b1-a66c-3b5873882f0a"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_f598f88c-f9cd-4926-af1f-6a8df480319a">
@@ -6081,7 +6081,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ee101b50-22fa-4966-8301-45e21b92e0be">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -6136,7 +6136,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ee101b50-22fa-4966-8301-45e21b92e0be"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ed67fe34-0e17-435b-8227-ae25d0057160">
@@ -7381,7 +7381,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_dddc4828-6126-41cb-9426-80d35a1893a9">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -7472,7 +7472,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_dddc4828-6126-41cb-9426-80d35a1893a9"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_4eb3d908-1834-49fc-8365-fbe722c1546d">
@@ -7553,7 +7553,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_45d5b41e-a826-41de-91a7-742df5205471">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -7592,7 +7592,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_45d5b41e-a826-41de-91a7-742df5205471"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_f6ac56af-dfe3-4bca-93d2-cacf7eab8b3c">
@@ -7745,7 +7745,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_4fef8d51-c6a6-45f4-8e86-bfcd297854e1">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -7936,7 +7936,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_4fef8d51-c6a6-45f4-8e86-bfcd297854e1"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6200adba-dfa7-4915-be02-056221c10ec8">
@@ -10017,7 +10017,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ba20d345-f7ed-4240-a17d-6c9e95df19b3">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -10224,7 +10224,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ba20d345-f7ed-4240-a17d-6c9e95df19b3"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ce245a38-cc35-49dc-bf57-b3b5972ff36c">
@@ -18033,7 +18033,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ed17e19d-845d-4f2e-bcb6-9057efdcf1ee">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -18072,7 +18072,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_ed17e19d-845d-4f2e-bcb6-9057efdcf1ee"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_66174386-2f4f-4e21-a6b9-a10cba56173f">
@@ -18401,7 +18401,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_04ac15d0-7dad-40eb-9c46-a08d83538437">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -18452,7 +18452,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_04ac15d0-7dad-40eb-9c46-a08d83538437"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_2159fa98-6a9f-4cb4-a01e-ad99861e1392">
@@ -19833,7 +19833,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_33d7bf36-0555-4488-975e-594b5f7c73ee">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -19884,7 +19884,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_33d7bf36-0555-4488-975e-594b5f7c73ee"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_d9bac829-b6a3-4f67-aa8c-e4c6895d4786">
@@ -20045,7 +20045,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_61c2561b-6361-44f2-b0bc-cf76fa905259">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -20096,12 +20096,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_61c2561b-6361-44f2-b0bc-cf76fa905259"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e7d4c5f4-96a3-4a81-a9fa-eee6395b0a0d">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -20176,7 +20176,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e7d4c5f4-96a3-4a81-a9fa-eee6395b0a0d"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_25d2f5c0-ff36-4066-aa36-d2adc6c0bc70">
@@ -21061,7 +21061,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_99474325-9d4c-4b1b-91d3-6e6a51dc372f">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -21100,7 +21100,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_99474325-9d4c-4b1b-91d3-6e6a51dc372f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_ddfb9746-9409-405d-8572-58c9be381b4f">
@@ -21325,7 +21325,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_009c8619-524e-4405-873d-2e9119191953">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -21392,12 +21392,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_009c8619-524e-4405-873d-2e9119191953"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_d9f72cf6-caa5-481c-bf50-c6aa52f18716">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -21452,7 +21452,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d9f72cf6-caa5-481c-bf50-c6aa52f18716"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_9b2133a2-9ecb-494d-946c-26255028aacb">
@@ -22805,7 +22805,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_665c006b-ed2c-40ee-a907-fc0e0a53aa9d">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -22860,7 +22860,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_665c006b-ed2c-40ee-a907-fc0e0a53aa9d"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7e8d87da-dfa1-4fa4-8fa3-daacd02c9f8e">
@@ -37157,7 +37157,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_71df6db0-f5ec-45ef-8ff9-395547e9dc32">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -37224,7 +37224,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_71df6db0-f5ec-45ef-8ff9-395547e9dc32"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_657dbb4f-fa76-4ead-b8c2-117be36ed9b1">
@@ -37629,7 +37629,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_87b1e4c6-049e-469a-982f-ab0e509e4055">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -37736,12 +37736,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_87b1e4c6-049e-469a-982f-ab0e509e4055"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c08852e9-5fe6-4521-a783-a9fda26e88cc">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -37780,7 +37780,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_c08852e9-5fe6-4521-a783-a9fda26e88cc"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a85ea2ea-79ce-48b4-a1e5-e1c59f030507">
@@ -39385,7 +39385,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_783af1b7-5bb2-4899-b82d-c8377922b3a7">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -39528,7 +39528,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_783af1b7-5bb2-4899-b82d-c8377922b3a7"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_8643949d-874a-4ea1-89e5-a0f5c10fd2ad">
@@ -42513,7 +42513,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_1ea6cc7a-736a-412c-af0d-bfb7994e54c5">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -42576,7 +42576,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1ea6cc7a-736a-412c-af0d-bfb7994e54c5"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_5fb8157a-2f3c-486a-bf37-943976b93b59">
@@ -42881,7 +42881,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_0a90ffe5-39e9-4001-9f85-8cb2a34c9827">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -42952,8 +42952,48 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_0a90ffe5-39e9-4001-9f85-8cb2a34c9827"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_50148a2d-965d-456e-aab5-97d6f93585b3">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_50148a2d-965d-456e-aab5-97d6f93585b3">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2681553.535</C1>
+                  <C2>1286693.057</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681537.862</C1>
+                  <C2>1286707.279</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681564.309</C1>
+                  <C2>1286732.320</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681580.056</C1>
+                  <C2>1286718.151</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681553.535</C1>
+                  <C2>1286693.057</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_50148a2d-965d-456e-aab5-97d6f93585b3"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_2006f65b-f79f-4143-9df4-23b64aa3c4da">
         <Rechtsstatus>inKraft</Rechtsstatus>
@@ -44949,7 +44989,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_21f38dc5-4fb8-49b9-bb6e-f7f3ec887b11">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -44992,7 +45032,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_21f38dc5-4fb8-49b9-bb6e-f7f3ec887b11"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_893d8514-ad0b-42f8-a9cc-5f914e92aeb4">
@@ -49103,6 +49143,74 @@
         <publiziertAb>2023-11-06</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_53d75cd6-7b10-4350-8639-fb3efef7acab"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_3e8046be-c17a-41a5-874b-6c42c169d318">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_3e8046be-c17a-41a5-874b-6c42c169d318">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2681553.535</C1>
+                  <C2>1286693.057</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681451.207</C1>
+                  <C2>1286671.447</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681445.570</C1>
+                  <C2>1286689.481</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681441.354</C1>
+                  <C2>1286733.309</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681469.871</C1>
+                  <C2>1286784.881</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681510.865</C1>
+                  <C2>1286814.916</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681558.120</C1>
+                  <C2>1286832.029</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681608.745</C1>
+                  <C2>1286818.423</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681580.056</C1>
+                  <C2>1286718.151</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681564.309</C1>
+                  <C2>1286732.320</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681537.862</C1>
+                  <C2>1286707.279</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681553.535</C1>
+                  <C2>1286693.057</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3e8046be-c17a-41a5-874b-6c42c169d318"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_eb658933-070f-47a3-b4b1-42cd29607e7d">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>1986-02-04</publiziertAb>
@@ -50293,7 +50401,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_d272de53-d664-462b-85d5-d7cbfd5ede48">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -50488,7 +50596,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d272de53-d664-462b-85d5-d7cbfd5ede48"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_0dc132f5-07b9-4a0d-8857-eed10ba7787a">
@@ -53237,7 +53345,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_272336c1-0af7-41aa-b190-908db3891b7f">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -54104,12 +54212,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_272336c1-0af7-41aa-b190-908db3891b7f"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_0af5a319-ace9-4382-ada3-42dc95153b86">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -54160,12 +54268,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_0af5a319-ace9-4382-ada3-42dc95153b86"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e5ecc844-5d7c-406f-802e-d2d1ad13027a">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -54200,12 +54308,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e5ecc844-5d7c-406f-802e-d2d1ad13027a"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_b29a267b-8f6e-41ba-8369-e30c09ac31d0">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -54276,7 +54384,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b29a267b-8f6e-41ba-8369-e30c09ac31d0"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_36b5453d-0f00-418f-a63f-3cab5e8f4aaa">
@@ -54793,7 +54901,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_221b062c-8305-4c13-ba91-f8efaaa7a829">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -54952,7 +55060,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_221b062c-8305-4c13-ba91-f8efaaa7a829"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_019e549e-917b-4cbb-8abe-f3a8ce2f74a7">
@@ -55337,7 +55445,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_d72343b5-5e62-47ce-895c-02a6798e59e8">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -55592,7 +55700,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d72343b5-5e62-47ce-895c-02a6798e59e8"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_c3833dbd-5260-41ad-900e-a705374a8fd8">
@@ -55797,7 +55905,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_2730ec1d-968b-4250-87c6-fc093af62647">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -56012,8 +56120,424 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2730ec1d-968b-4250-87c6-fc093af62647"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_e2bba68e-2621-4251-9b26-0c03e4fe6b82">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_e2bba68e-2621-4251-9b26-0c03e4fe6b82">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2681553.535</C1>
+                  <C2>1286693.057</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681417.144</C1>
+                  <C2>1286645.019</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681372.263</C1>
+                  <C2>1286679.972</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681371.291</C1>
+                  <C2>1286680.670</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681369.218</C1>
+                  <C2>1286682.660</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681367.732</C1>
+                  <C2>1286684.241</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681366.271</C1>
+                  <C2>1286685.895</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681364.737</C1>
+                  <C2>1286687.764</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681363.515</C1>
+                  <C2>1286689.466</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681362.221</C1>
+                  <C2>1286691.311</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681361.046</C1>
+                  <C2>1286693.156</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681359.824</C1>
+                  <C2>1286695.337</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681358.290</C1>
+                  <C2>1286698.380</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681357.296</C1>
+                  <C2>1286702.694</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681355.954</C1>
+                  <C2>1286709.386</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681355.211</C1>
+                  <C2>1286713.736</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681354.612</C1>
+                  <C2>1286717.654</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681354.037</C1>
+                  <C2>1286721.914</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681353.557</C1>
+                  <C2>1286726.036</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681353.246</C1>
+                  <C2>1286729.199</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681353.318</C1>
+                  <C2>1286732.794</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681353.437</C1>
+                  <C2>1286735.550</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681353.773</C1>
+                  <C2>1286740.103</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681354.114</C1>
+                  <C2>1286743.476</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681354.546</C1>
+                  <C2>1286746.915</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681355.043</C1>
+                  <C2>1286750.031</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681355.624</C1>
+                  <C2>1286753.278</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681356.403</C1>
+                  <C2>1286756.932</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681357.481</C1>
+                  <C2>1286761.402</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681358.991</C1>
+                  <C2>1286766.644</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681360.118</C1>
+                  <C2>1286770.143</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681362.200</C1>
+                  <C2>1286776.017</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681364.123</C1>
+                  <C2>1286781.071</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681366.172</C1>
+                  <C2>1286786.176</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681369.071</C1>
+                  <C2>1286792.934</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681371.588</C1>
+                  <C2>1286798.446</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681374.056</C1>
+                  <C2>1286803.550</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681376.525</C1>
+                  <C2>1286808.367</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681379.113</C1>
+                  <C2>1286813.184</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681382.132</C1>
+                  <C2>1286818.504</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681384.517</C1>
+                  <C2>1286823.585</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681390.855</C1>
+                  <C2>1286837.065</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681391.443</C1>
+                  <C2>1286838.748</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681391.886</C1>
+                  <C2>1286840.282</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681392.257</C1>
+                  <C2>1286841.816</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681392.557</C1>
+                  <C2>1286843.386</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681392.815</C1>
+                  <C2>1286845.093</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681392.988</C1>
+                  <C2>1286846.657</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681393.060</C1>
+                  <C2>1286848.274</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681393.072</C1>
+                  <C2>1286850.024</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681393.012</C1>
+                  <C2>1286851.630</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681392.857</C1>
+                  <C2>1286853.283</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681392.629</C1>
+                  <C2>1286854.889</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681392.365</C1>
+                  <C2>1286856.470</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681391.994</C1>
+                  <C2>1286858.052</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681391.515</C1>
+                  <C2>1286859.694</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681390.963</C1>
+                  <C2>1286861.323</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681390.412</C1>
+                  <C2>1286862.752</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681393.300</C1>
+                  <C2>1286865.764</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681397.000</C1>
+                  <C2>1286869.636</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681403.509</C1>
+                  <C2>1286875.115</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681409.068</C1>
+                  <C2>1286879.466</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681412.822</C1>
+                  <C2>1286882.272</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681416.667</C1>
+                  <C2>1286885.038</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681422.797</C1>
+                  <C2>1286889.182</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681426.291</C1>
+                  <C2>1286891.429</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681430.876</C1>
+                  <C2>1286894.235</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681432.825</C1>
+                  <C2>1286895.378</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681435.202</C1>
+                  <C2>1286896.910</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681438.124</C1>
+                  <C2>1286898.833</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681439.878</C1>
+                  <C2>1286899.989</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681448.775</C1>
+                  <C2>1286905.834</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681451.607</C1>
+                  <C2>1286907.691</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681455.452</C1>
+                  <C2>1286910.198</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681466.077</C1>
+                  <C2>1286917.186</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681470.701</C1>
+                  <C2>1286920.213</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681472.727</C1>
+                  <C2>1286921.511</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681474.636</C1>
+                  <C2>1286922.745</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681475.974</C1>
+                  <C2>1286923.681</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681476.637</C1>
+                  <C2>1286924.148</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681477.832</C1>
+                  <C2>1286925.057</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681479.104</C1>
+                  <C2>1286926.175</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681480.105</C1>
+                  <C2>1286927.149</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681481.222</C1>
+                  <C2>1286928.383</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681560.224</C1>
+                  <C2>1286937.796</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681562.776</C1>
+                  <C2>1286936.510</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681589.748</C1>
+                  <C2>1286925.158</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681592.508</C1>
+                  <C2>1286924.567</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681635.605</C1>
+                  <C2>1286913.200</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681671.127</C1>
+                  <C2>1286898.260</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681580.056</C1>
+                  <C2>1286718.151</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681608.745</C1>
+                  <C2>1286818.423</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681558.120</C1>
+                  <C2>1286832.029</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681510.865</C1>
+                  <C2>1286814.916</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681469.871</C1>
+                  <C2>1286784.881</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681441.354</C1>
+                  <C2>1286733.309</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681445.570</C1>
+                  <C2>1286689.481</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681451.207</C1>
+                  <C2>1286671.447</C2>
+                </COORD>
+                <COORD>
+                  <C1>2681553.535</C1>
+                  <C2>1286693.057</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e2bba68e-2621-4251-9b26-0c03e4fe6b82"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6cfd2021-b85c-46ef-916b-5fe1703df822">
         <Rechtsstatus>inKraft</Rechtsstatus>
@@ -57425,7 +57949,7 @@
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_1055ccdc-48d5-421e-a5a0-aea56c0baedb">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -57508,12 +58032,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_1055ccdc-48d5-421e-a5a0-aea56c0baedb"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_59926fd8-4f56-42f7-bb46-0c97b19c9afc">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -57652,12 +58176,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_59926fd8-4f56-42f7-bb46-0c97b19c9afc"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_05653cdd-1958-4b22-93a6-4ca7a9f7726d">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -57768,12 +58292,12 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_05653cdd-1958-4b22-93a6-4ca7a9f7726d"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_3f7de5ad-5889-400c-9cb7-183e62ecd915">
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
         <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
         <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
@@ -57840,7 +58364,7 @@
           </SURFACE>
         </Flaeche>
         <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
-        <publiziertAb>2023-11-21</publiziertAb>
+        <publiziertAb>2023-11-23</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3f7de5ad-5889-400c-9cb7-183e62ecd915"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_5af15bcb-4d95-4dcd-bfd6-ff577969031e">
@@ -57886,6 +58410,602 @@
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2023-11-06</publiziertAb>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_5af15bcb-4d95-4dcd-bfd6-ff577969031e"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_7af59ce6-93f1-47e8-822d-80bec00274d9">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_7af59ce6-93f1-47e8-822d-80bec00274d9">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2682872.773</C1>
+                  <C2>1286913.500</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682884.580</C1>
+                  <C2>1286905.469</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682871.176</C1>
+                  <C2>1286889.552</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682860.854</C1>
+                  <C2>1286897.573</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682872.773</C1>
+                  <C2>1286913.500</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7af59ce6-93f1-47e8-822d-80bec00274d9"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_59f55e82-5d2b-4668-a053-48e682709553">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S1.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_59f55e82-5d2b-4668-a053-48e682709553">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2682872.568</C1>
+                  <C2>1286873.907</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682883.819</C1>
+                  <C2>1286895.540</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682900.084</C1>
+                  <C2>1286889.749</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682885.026</C1>
+                  <C2>1286833.860</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682871.334</C1>
+                  <C2>1286837.162</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682873.396</C1>
+                  <C2>1286843.782</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.888</C1>
+                  <C2>1286858.169</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.057</C1>
+                  <C2>1286859.091</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.142</C1>
+                  <C2>1286859.955</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.164</C1>
+                  <C2>1286860.715</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.120</C1>
+                  <C2>1286861.388</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.009</C1>
+                  <C2>1286862.358</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.759</C1>
+                  <C2>1286863.432</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.458</C1>
+                  <C2>1286864.271</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.113</C1>
+                  <C2>1286865.076</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682876.725</C1>
+                  <C2>1286865.787</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682876.196</C1>
+                  <C2>1286866.591</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682875.634</C1>
+                  <C2>1286867.308</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682873.329</C1>
+                  <C2>1286869.497</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682872.568</C1>
+                  <C2>1286873.907</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_59f55e82-5d2b-4668-a053-48e682709553"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_6514a558-087b-46fa-bb0e-9a03a34ccc33">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S2.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_6514a558-087b-46fa-bb0e-9a03a34ccc33">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2682860.854</C1>
+                  <C2>1286897.573</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682788.571</C1>
+                  <C2>1286970.669</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682814.373</C1>
+                  <C2>1286995.830</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.973</C1>
+                  <C2>1287016.882</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682952.187</C1>
+                  <C2>1286987.671</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682985.374</C1>
+                  <C2>1286942.043</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683003.714</C1>
+                  <C2>1286889.873</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682982.695</C1>
+                  <C2>1286814.725</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682936.303</C1>
+                  <C2>1286771.182</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682863.001</C1>
+                  <C2>1286839.407</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682871.652</C1>
+                  <C2>1286866.344</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682873.329</C1>
+                  <C2>1286869.497</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682875.634</C1>
+                  <C2>1286867.308</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682876.196</C1>
+                  <C2>1286866.591</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682876.725</C1>
+                  <C2>1286865.787</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.113</C1>
+                  <C2>1286865.076</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.458</C1>
+                  <C2>1286864.271</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.759</C1>
+                  <C2>1286863.432</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.009</C1>
+                  <C2>1286862.358</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.120</C1>
+                  <C2>1286861.388</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.164</C1>
+                  <C2>1286860.715</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.142</C1>
+                  <C2>1286859.955</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.057</C1>
+                  <C2>1286859.091</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682877.888</C1>
+                  <C2>1286858.169</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682873.396</C1>
+                  <C2>1286843.782</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682871.334</C1>
+                  <C2>1286837.162</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682885.026</C1>
+                  <C2>1286833.860</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682900.084</C1>
+                  <C2>1286889.749</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682883.819</C1>
+                  <C2>1286895.540</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682872.568</C1>
+                  <C2>1286873.907</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682873.936</C1>
+                  <C2>1286887.396</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682871.176</C1>
+                  <C2>1286889.552</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682884.580</C1>
+                  <C2>1286905.469</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682872.773</C1>
+                  <C2>1286913.500</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682860.854</C1>
+                  <C2>1286897.573</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6514a558-087b-46fa-bb0e-9a03a34ccc33"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a96dde69-9a19-4d4e-bb1e-4e54517c0163">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a96dde69-9a19-4d4e-bb1e-4e54517c0163">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2682788.571</C1>
+                  <C2>1286970.669</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682763.803</C1>
+                  <C2>1287002.664</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682745.072</C1>
+                  <C2>1287031.865</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682798.469</C1>
+                  <C2>1287098.966</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682875.011</C1>
+                  <C2>1287117.231</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682958.559</C1>
+                  <C2>1287095.326</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683049.509</C1>
+                  <C2>1287052.055</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683096.744</C1>
+                  <C2>1286932.847</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683113.675</C1>
+                  <C2>1286843.176</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683109.890</C1>
+                  <C2>1286837.064</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683106.758</C1>
+                  <C2>1286832.007</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683091.695</C1>
+                  <C2>1286807.478</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683090.039</C1>
+                  <C2>1286804.718</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683084.186</C1>
+                  <C2>1286793.461</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683078.859</C1>
+                  <C2>1286783.218</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683072.698</C1>
+                  <C2>1286771.396</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683066.922</C1>
+                  <C2>1286760.268</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683061.377</C1>
+                  <C2>1286749.563</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683056.884</C1>
+                  <C2>1286740.898</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683055.254</C1>
+                  <C2>1286737.715</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683051.159</C1>
+                  <C2>1286729.834</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683049.324</C1>
+                  <C2>1286726.291</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683045.656</C1>
+                  <C2>1286719.260</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683043.150</C1>
+                  <C2>1286719.931</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683041.975</C1>
+                  <C2>1286720.281</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683040.268</C1>
+                  <C2>1286720.884</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683037.951</C1>
+                  <C2>1286721.789</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683036.116</C1>
+                  <C2>1286722.623</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683033.870</C1>
+                  <C2>1286723.759</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683032.304</C1>
+                  <C2>1286724.632</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683030.596</C1>
+                  <C2>1286725.672</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683029.184</C1>
+                  <C2>1286726.647</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683026.386</C1>
+                  <C2>1286728.650</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683025.096</C1>
+                  <C2>1286729.574</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683023.428</C1>
+                  <C2>1286730.858</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683022.388</C1>
+                  <C2>1286731.705</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683020.623</C1>
+                  <C2>1286733.207</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683018.576</C1>
+                  <C2>1286735.093</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683017.164</C1>
+                  <C2>1286736.518</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683015.810</C1>
+                  <C2>1286737.949</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683014.359</C1>
+                  <C2>1286739.586</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683013.165</C1>
+                  <C2>1286741.017</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683012.183</C1>
+                  <C2>1286742.262</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683010.630</C1>
+                  <C2>1286744.361</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683009.738</C1>
+                  <C2>1286745.677</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683008.891</C1>
+                  <C2>1286746.973</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683008.530</C1>
+                  <C2>1286747.541</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682936.303</C1>
+                  <C2>1286771.182</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682982.695</C1>
+                  <C2>1286814.725</C2>
+                </COORD>
+                <COORD>
+                  <C1>2683003.714</C1>
+                  <C2>1286889.873</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682985.374</C1>
+                  <C2>1286942.043</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682952.187</C1>
+                  <C2>1286987.671</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682878.973</C1>
+                  <C2>1287016.882</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682814.373</C1>
+                  <C2>1286995.830</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682788.571</C1>
+                  <C2>1286970.669</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a96dde69-9a19-4d4e-bb1e-4e54517c0163"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_b1584d05-8df5-4fb0-a0d1-da7274db352e">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+        <Legende REF="ch.SH.Grundwasserschutzzonen.S3.AenderungOhneVorwirkung"/>
+        <DarstellungsDienst REF="ch.SH.Grundwasserschutzzonen.wms.AenderungOhneVorwirkung"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_b1584d05-8df5-4fb0-a0d1-da7274db352e">
+        <Flaeche>
+          <SURFACE>
+            <BOUNDARY>
+              <POLYLINE>
+                <COORD>
+                  <C1>2682788.571</C1>
+                  <C2>1286970.669</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682860.854</C1>
+                  <C2>1286897.573</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682871.176</C1>
+                  <C2>1286889.552</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682873.936</C1>
+                  <C2>1286887.396</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682872.568</C1>
+                  <C2>1286873.907</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682873.329</C1>
+                  <C2>1286869.497</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682871.652</C1>
+                  <C2>1286866.344</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682863.001</C1>
+                  <C2>1286839.407</C2>
+                </COORD>
+                <COORD>
+                  <C1>2682788.571</C1>
+                  <C2>1286970.669</C2>
+                </COORD>
+              </POLYLINE>
+            </BOUNDARY>
+          </SURFACE>
+        </Flaeche>
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <publiziertAb>2023-11-23</publiziertAb>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b1584d05-8df5-4fb0-a0d1-da7274db352e"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_82f79fa9-3c96-4d75-a6a7-7d9c4ea62017"/>
@@ -59898,6 +61018,38 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_783af1b7-5bb2-4899-b82d-c8377922b3a7"/>
         <Vorschrift REF="dokument_9fe20756-13ed-42cb-be3e-a6dda2a74519"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_50148a2d-965d-456e-aab5-97d6f93585b3"/>
+        <Vorschrift REF="dokument_64249cf2-f933-4a26-9637-e0bf509e5cbd"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_3e8046be-c17a-41a5-874b-6c42c169d318"/>
+        <Vorschrift REF="dokument_64249cf2-f933-4a26-9637-e0bf509e5cbd"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_e2bba68e-2621-4251-9b26-0c03e4fe6b82"/>
+        <Vorschrift REF="dokument_64249cf2-f933-4a26-9637-e0bf509e5cbd"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_7af59ce6-93f1-47e8-822d-80bec00274d9"/>
+        <Vorschrift REF="dokument_ead0a5c1-ae51-481f-a7d5-ea6f5a8515d6"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_59f55e82-5d2b-4668-a053-48e682709553"/>
+        <Vorschrift REF="dokument_ead0a5c1-ae51-481f-a7d5-ea6f5a8515d6"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_6514a558-087b-46fa-bb0e-9a03a34ccc33"/>
+        <Vorschrift REF="dokument_ead0a5c1-ae51-481f-a7d5-ea6f5a8515d6"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a96dde69-9a19-4d4e-bb1e-4e54517c0163"/>
+        <Vorschrift REF="dokument_ead0a5c1-ae51-481f-a7d5-ea6f5a8515d6"/>
+      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
+        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_b1584d05-8df5-4fb0-a0d1-da7274db352e"/>
+        <Vorschrift REF="dokument_ead0a5c1-ae51-481f-a7d5-ea6f5a8515d6"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.LegendeEintrag TID="ch.SH.Grundwasserschutzzonen.S_kantonaleArt.inKraft">
         <Symbol>
@@ -64323,6 +65475,66 @@
               <OeREBKRM_V2_0.LocalisedUri>
                 <Language>de</Language>
                 <Text>https://data.geo.sh.ch/oereb/13582_LOE_702_PB_01.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <!-- LOG
+            dokument_ref="64249cf2-f933-4a26-9637-e0bf509e5cbd"
+        -->
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_64249cf2-f933-4a26-9637-e0bf509e5cbd">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2026-03-18</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonen Roossen</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Hinweis</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/Disclaimer_OEREB_GWS.pdf</Text>
+              </OeREBKRM_V2_0.LocalisedUri>
+            </LocalisedText>
+          </OeREBKRM_V2_0.MultilingualUri>
+        </TextImWeb>
+        <ZustaendigeStelle REF="AMT_eed2ef57-5c9a-402d-8b8b-31e909e1e496"/>
+      </OeREBKRM_V2_0.Dokumente.Dokument>
+      <!-- LOG
+            dokument_ref="ead0a5c1-ae51-481f-a7d5-ea6f5a8515d6"
+        -->
+      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ead0a5c1-ae51-481f-a7d5-ea6f5a8515d6">
+        <Rechtsstatus>AenderungOhneVorwirkung</Rechtsstatus>
+        <AuszugIndex>515</AuszugIndex>
+        <publiziertAb>2026-03-18</publiziertAb>
+        <Titel>
+          <LocalisationCH_V1.MultilingualText>
+            <LocalisedText>
+              <LocalisationCH_V1.LocalisedText>
+                <Language>de</Language>
+                <Text>Schutzzonen Langtal</Text>
+              </LocalisationCH_V1.LocalisedText>
+            </LocalisedText>
+          </LocalisationCH_V1.MultilingualText>
+        </Titel>
+        <Typ>Hinweis</Typ>
+        <TextImWeb>
+          <OeREBKRM_V2_0.MultilingualUri>
+            <LocalisedText>
+              <OeREBKRM_V2_0.LocalisedUri>
+                <Language>de</Language>
+                <Text>https://data.geo.sh.ch/oereb/Disclaimer_OEREB_GWS.pdf</Text>
               </OeREBKRM_V2_0.LocalisedUri>
             </LocalisedText>
           </OeREBKRM_V2_0.MultilingualUri>
