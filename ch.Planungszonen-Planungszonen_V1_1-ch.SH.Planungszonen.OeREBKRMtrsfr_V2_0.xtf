@@ -1583,112 +1583,6 @@
         <publiziertBis>2027-12-02</publiziertBis>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d6d671a7-3321-4dfd-acec-dd32a2e2ff98"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_a0cc4c51-59c9-4a95-b774-728a9cc3e6e4">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2023-04-04</publiziertAb>
-        <publiziertBis>2026-04-03</publiziertBis>
-        <ZustaendigeStelle REF="AMT_ch.2973.gemeindeverwaltung"/>
-        <Legende REF="ch.SH.Planungszonen.Gemeinde.inKraft"/>
-        <DarstellungsDienst REF="ch.SH.Planungszonen.wms"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie TID="geometrie_a0cc4c51-59c9-4a95-b774-728a9cc3e6e4">
-        <Flaeche>
-          <SURFACE>
-            <BOUNDARY>
-              <POLYLINE>
-                <COORD>
-                  <C1>2674718.237</C1>
-                  <C2>1280023.046</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674735.967</C1>
-                  <C2>1280052.968</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674757.710</C1>
-                  <C2>1280089.663</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674769.240</C1>
-                  <C2>1280109.121</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674791.059</C1>
-                  <C2>1280092.979</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674810.981</C1>
-                  <C2>1280078.240</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674832.510</C1>
-                  <C2>1280062.313</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674891.768</C1>
-                  <C2>1280018.075</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674863.590</C1>
-                  <C2>1279966.380</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674851.043</C1>
-                  <C2>1279938.922</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674847.648</C1>
-                  <C2>1279925.993</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674845.764</C1>
-                  <C2>1279904.982</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674836.067</C1>
-                  <C2>1279913.934</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674809.838</C1>
-                  <C2>1279938.049</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674784.751</C1>
-                  <C2>1279961.359</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674781.869</C1>
-                  <C2>1279964.037</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674777.227</C1>
-                  <C2>1279968.351</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674762.995</C1>
-                  <C2>1279981.572</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674762.092</C1>
-                  <C2>1279982.413</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674745.809</C1>
-                  <C2>1279997.497</C2>
-                </COORD>
-                <COORD>
-                  <C1>2674718.237</C1>
-                  <C2>1280023.046</C2>
-                </COORD>
-              </POLYLINE>
-            </BOUNDARY>
-          </SURFACE>
-        </Flaeche>
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <publiziertAb>2023-04-04</publiziertAb>
-        <publiziertBis>2026-04-03</publiziertBis>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a0cc4c51-59c9-4a95-b774-728a9cc3e6e4"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
       <OeREBKRMtrsfr_V2_0.Transferstruktur.Eigentumsbeschraenkung TID="eigentumsbeschraenkung_2ee4d72b-c109-46aa-9d40-bb43709f307c">
         <Rechtsstatus>inKraft</Rechtsstatus>
         <publiziertAb>2023-08-22</publiziertAb>
@@ -1795,33 +1689,6 @@
         <publiziertBis>2026-08-21</publiziertBis>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_2ee4d72b-c109-46aa-9d40-bb43709f307c"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.Geometrie>
-      <OeREBKRM_V2_0.Amt.Amt TID="AMT_ch.2951.gemeindeverwaltung">
-        <Name>
-          <LocalisationCH_V1.MultilingualText>
-            <LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>de</Language>
-                <Text>Gemeinde Beggingen</Text>
-              </LocalisationCH_V1.LocalisedText>
-            </LocalisedText>
-          </LocalisationCH_V1.MultilingualText>
-        </Name>
-        <AmtImWeb>
-          <OeREBKRM_V2_0.MultilingualUri>
-            <LocalisedText>
-              <OeREBKRM_V2_0.LocalisedUri>
-                <Language>de</Language>
-                <Text>https://beggingen.ch/</Text>
-              </OeREBKRM_V2_0.LocalisedUri>
-            </LocalisedText>
-          </OeREBKRM_V2_0.MultilingualUri>
-        </AmtImWeb>
-        <Zeile1>Gemeinde Beggingen</Zeile1>
-        <Strasse>Dorfstrasse</Strasse>
-        <Hausnr>4</Hausnr>
-        <PLZ>8228</PLZ>
-        <Ort>Beggingen</Ort>
-      </OeREBKRM_V2_0.Amt.Amt>
       <OeREBKRM_V2_0.Amt.Amt TID="AMT_ch.2964.gemeindeverwaltung">
         <Name>
           <LocalisationCH_V1.MultilingualText>
@@ -2017,46 +1884,6 @@
       <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
         <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_d6d671a7-3321-4dfd-acec-dd32a2e2ff98"/>
         <Vorschrift REF="dokument_ch.2964.grb.GR-00001"/>
-      </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-      <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2973.grb.GR-00043">
-        <Rechtsstatus>inKraft</Rechtsstatus>
-        <AuszugIndex>10</AuszugIndex>
-        <publiziertAb>2023-04-04</publiziertAb>
-        <OffizielleNr>
-          <LocalisationCH_V1.MultilingualText>
-            <LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Text>GR-00043</Text>
-              </LocalisationCH_V1.LocalisedText>
-            </LocalisedText>
-          </LocalisationCH_V1.MultilingualText>
-        </OffizielleNr>
-        <Titel>
-          <LocalisationCH_V1.MultilingualText>
-            <LocalisedText>
-              <LocalisationCH_V1.LocalisedText>
-                <Language>de</Language>
-                <Text>Planungszone "Langwis"</Text>
-              </LocalisationCH_V1.LocalisedText>
-            </LocalisedText>
-          </LocalisationCH_V1.MultilingualText>
-        </Titel>
-        <Typ>Rechtsvorschrift</Typ>
-        <TextImWeb>
-          <OeREBKRM_V2_0.MultilingualUri>
-            <LocalisedText>
-              <OeREBKRM_V2_0.LocalisedUri>
-                <Language>de</Language>
-                <Text>https://data.geo.sh.ch/oereb/TRA_013_EN_1.pdf</Text>
-              </OeREBKRM_V2_0.LocalisedUri>
-            </LocalisedText>
-          </OeREBKRM_V2_0.MultilingualUri>
-        </TextImWeb>
-        <ZustaendigeStelle REF="AMT_ch.2973.gemeindeverwaltung"/>
-      </OeREBKRM_V2_0.Dokumente.Dokument>
-      <OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
-        <Eigentumsbeschraenkung REF="eigentumsbeschraenkung_a0cc4c51-59c9-4a95-b774-728a9cc3e6e4"/>
-        <Vorschrift REF="dokument_ch.2973.grb.GR-00043"/>
       </OeREBKRMtrsfr_V2_0.Transferstruktur.HinweisVorschrift>
       <OeREBKRM_V2_0.Dokumente.Dokument TID="dokument_ch.2973.grb.GR-00103">
         <Rechtsstatus>inKraft</Rechtsstatus>
